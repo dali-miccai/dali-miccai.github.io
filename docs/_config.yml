@@ -29,7 +29,7 @@ url: "https://dali-miccai.gihub.io"
 #github_username:  jekyll
 
 # Build settings
-remote_theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 theme_color: "#ad3674"
 #plugins:
 #  - jekyll-feed
