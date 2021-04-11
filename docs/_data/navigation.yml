@@ -1,0 +1,15 @@
+- name: Important Dates
+  link: "#important-dates"
+- name: Call For Papers
+  link: "#call-for-papers"
+- name: Program
+  link: "#program"
+- name: People
+  link: "#people"
+- name: Previous Editions
+  link: "#previous-editions"
+  dropdown:
+    - name: MIL3D
+      link: https://www.hvnguyen.com/lesslabelsimperfectdataml2020
+    - name: LABELS
+      link: https://www.miccailabels.org/
