@@ -26,7 +26,7 @@ Training machine learning systems for image recognition, object detection and im
 
 Obtaining such huge amounts of labeled data is very challenging in the medical imaging domain, however, due to costly annotation by domain experts and lack of high-quality anonymized data out of privacy concerns. Furthermore, there are unique challenges to collecting annotated medical datasets. For instance, examples of rare pathological conditions, although hard to obtain, are extremely important for accurate representation of the data distribution; there are often variations among experts who provide labels, especially for conditions that human experts are most confused about and need help the most.
 
-The goal of this workshop is to bring together and create a discussion forum for researchers in the MICCAI community who are interested in the rigorous study of medical data as it relates to machine learning systems, who are developing and promoting novel directions of research in such techniques, who would like to contribute benchmark datasets, open challenges and tasks that enable fair comparisons among existing and new techniques, and who are applying such techniques to improving the performance of medical image computing systems. The workshop will have invited speakers who will speak about popular and emerging approaches for data augmentation or imputation, and learning from small and noisy medical data. The workshop welcomes submissions that present new ideas, new results, new datasets, as well as discussion and evaluation of existing approaches. The topics of interest include but are not limited to:
+The goal of this workshop is to bring together and create a discussion forum for researchers in the MICCAI community who are interested in the rigorous study of medical data as it relates to machine learning systems, who are developing and promoting novel techniques in data augmentation, labeing, and learning from small or imperfect data, who would like to contribute benchmark datasets, open challenges and tasks that enable fair comparisons among existing and new techniques, and who are applying such techniques to improving the performance of medical image computing systems. The workshop will have invited speakers who will speak about popular and emerging approaches for data augmentation or imputation, and learning from small or noisy medical data. The workshop welcomes submissions that present new ideas, new results, new datasets, as well as discussion and evaluation of existing approaches. The topics of interest include but are not limited to:
 
 - Training and evaluation with noisy or uncertain labels
 - Data annotation tools and practices
@@ -37,6 +37,7 @@ The goal of this workshop is to bring together and create a discussion forum for
 - Deep learning for small, noisy and imperfect data
 - Domain adaptation/generalization
 - Erroneous label detection
+- Data augmentation
 - Data imputation 
 - Principles and/or case studies of annotated datasets and benchmarks
 - Anonymization, PHI detection
