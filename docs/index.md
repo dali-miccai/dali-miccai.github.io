@@ -17,8 +17,8 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 
 - **Paper Submission Opens**: April 30, 2021
 - **Paper Submission Deadline**: June 25, 2021
-- **Notification to Authors**: July 16, 2021
-- **Camera Ready Deadline**: July 23, 2021
+- **Notification to Authors**: July 23, 2021
+- **Camera Ready Deadline**: July 30, 2021
 - **Workshop Day**: Sep. 27 or Oct. 1, 2021 (TBA)
 
 ## Call For Papers
