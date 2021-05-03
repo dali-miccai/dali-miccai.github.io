@@ -1,8 +1,9 @@
 ---
 layout: page
 title: DALI @ MICCAI 2021
+subtitle: The MICCAI workshop on Data Agumentation, Labeling, and Imperfections
 description: The homepage of the MICCAI workshop on Data Agumentation, Labeling, and Imperfections
-hide_hero: true
+hero_image: /hero.png
 show_sidebar: true
 ---
 
@@ -10,15 +11,15 @@ show_sidebar: true
 
 With the proliferation of data-intensive methods for supervised learning, the demand for large quantities of annotated data has never been higher. Unfortunately, large-scale collections of medical images are exceptionally challenging to collect and require rare and expensive expertise to annotate. Moreover, medical data are often noisy and imperfect due to missing entries and sensing heterogeneity. A forum for discussing contemporary and practical approaches for dealing with these challenges is urgently needed.
 
-The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfections (DALI) aims to provide a venue for researchers to present and discuss their experiences working on these important topics.
+The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfections (**DALI**) aims to provide a venue for researchers to present and discuss their experiences working on these important topics.
 
 ## Important Dates
 
-- **Paper Submission Opens**: Apr. 30, 2021
-- **Paper Submission Deadline**: TBA
-- **Notification to Authors**: TBA
-- **Camera Ready Deadline**: TBA
-- **Workshop Day**: Sep. 27 or Oct. 1, 2021 (TBA) 
+- **Paper Submission Opens**: April 30, 2021
+- **Paper Submission Deadline**: June 25, 2021
+- **Notification to Authors**: July 16, 2021
+- **Camera Ready Deadline**: July 23, 2021
+- **Workshop Day**: Sep. 27 or Oct. 1, 2021 (TBA)
 
 ## Call For Papers
 
@@ -38,20 +39,19 @@ The goal of this workshop is to bring together and create a discussion forum for
 - Domain adaptation/generalization
 - Erroneous label detection
 - Data augmentation
-- Data imputation 
+- Data imputation
 - Principles and/or case studies of annotated datasets and benchmarks
 - Anonymization, PHI detection
 
 Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Tentative conference submission website is at: [https://cmt3.research.microsoft.com/DALI2021](https://cmt3.research.microsoft.com/DALI2021)
 
-Papers submitted to this workshop are limited to 8 pages including references. Papers should be formatted in Lecture Notes in Computer Science style. Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Supplemental material submission is optional, which may include: 
+Papers submitted to this workshop are limited to 8 pages including references. Papers should be formatted in Lecture Notes in Computer Science style. Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Supplemental material submission is optional, which may include:
 
 - Videos of results that cannot be included in the main paper
 - Anonymized related submissions to other conferences and journals
 - Appendices or technical reports containing extended proofs and mathematical derivations that are not essential for the understanding of the paper
 
 Contents of the supplemental material should be referred to appropriately in the paper and that reviewers are not obliged to look at it.
-
 
 ## Program
 
