@@ -61,8 +61,8 @@ TBA
 
 ### Co-Chairs
 
-- Sharon Xiaolei Huang, The Pennsylvania State University, USA
 - Nicholas Heller, University of Minnesota, USA
+- Sharon Xiaolei Huang, The Pennsylvania State University, USA
 - Hien V. Nguyen, University of Houston, USA
 
 ### Editorial Chairs
@@ -71,11 +71,13 @@ TBA
 
 ### Award Committee
 
-- TBA
+- Dimitris N. Metaxas, Rutgers University, New Brunswick, NJ, USA
 
 ### Advisory Board
 
-- TBA
+- Stephen Wong, Houston Methodist Hospital, Houston, TX, USA
+- Jens Rittscher, University of Oxford, Oxford, UK
+- Margrit Betke, Boston University, Boston, MA, USA
 
 ## Previous Editions
 
