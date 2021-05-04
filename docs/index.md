@@ -15,7 +15,7 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 
 ## Important Dates
 
-- **Paper Submission Opens**: April 30, 2021
+- **[Paper Submission](https://cmt3.research.microsoft.com/DALI2021) Opens**: April 30, 2021
 - **Paper Submission Deadline**: June 25, 2021
 - **Notification to Authors**: July 23, 2021
 - **Camera Ready Deadline**: July 30, 2021
