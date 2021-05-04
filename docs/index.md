@@ -68,7 +68,7 @@ TBA
 
 ### Editorial Chairs
 
-- TBA
+- Emanuel Trucco, University of Dundee, Scotland
 
 ### Award Committee
 
