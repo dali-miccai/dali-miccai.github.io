@@ -23,7 +23,7 @@ email: helle246@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections.
 baseurl: ""
-url: "https://dali-miccai.gihub.io"
+url: "https://dali-miccai.github.io"
 google_analytics: G-3Y8WJXG05N
 #twitter_username: jekyllrb
 #github_username:  jekyll
