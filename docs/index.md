@@ -80,7 +80,7 @@ TBA
 - Stephen Wong, Houston Methodist Hospital, Houston, TX, USA
 - Jens Rittscher, University of Oxford, Oxford, UK
 - Margrit Betke, Boston University, Boston, MA, USA
-- Manuel Trucco, University of Dundee, Scotland
+- Emanuele Trucco, University of Dundee, Scotland
 
 ## Previous Editions
 
