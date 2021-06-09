@@ -46,7 +46,7 @@ The goal of this workshop is to bring together and create a discussion forum for
 
 Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Tentative conference submission website is at: [https://cmt3.research.microsoft.com/DALI2021](https://cmt3.research.microsoft.com/DALI2021)
 
-Papers submitted to this workshop are limited to 8 pages including references. Papers should be formatted in Lecture Notes in Computer Science style. Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Supplemental material submission is optional, which may include:
+Papers submitted to this workshop are limited to 8 pages including references. Papers should be formatted in Lecture Notes in Computer Science style, and should be anonymized in order to allow for double blind review. Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Supplemental material submission is optional, which may include:
 
 - Videos of results that cannot be included in the main paper
 - Anonymized related submissions to other conferences and journals
