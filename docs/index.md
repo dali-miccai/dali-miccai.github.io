@@ -68,17 +68,19 @@ TBA
 
 ### Editorial Chairs
 
-- Emanuel Trucco, University of Dundee, Scotland
+- Raphael Sznitman, University of Bern, Switzerland
 
 ### Award Committee
 
 - Dimitris N. Metaxas, Rutgers University, New Brunswick, NJ, USA
+- Diana Mateus, Technische Universität München (TUM), Germany
 
 ### Advisory Board
 
 - Stephen Wong, Houston Methodist Hospital, Houston, TX, USA
 - Jens Rittscher, University of Oxford, Oxford, UK
 - Margrit Betke, Boston University, Boston, MA, USA
+- Emanuele Trucco, University of Dundee, Scotland
 
 ## Previous Editions
 
