@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DALI @ MICCAI 2021
-subtitle: The MICCAI workshop on Data Agumentation, Labeling, and Imperfections
-description: The homepage of the MICCAI workshop on Data Agumentation, Labeling, and Imperfections
+subtitle: The MICCAI workshop on Data Augmentation, Labeling, and Imperfections
+description: The homepage of the MICCAI workshop on Data Augmentation, Labeling, and Imperfections
 hero_image: /hero.png
 image: /logo.png
 show_sidebar: true
