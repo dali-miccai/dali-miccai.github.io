@@ -73,7 +73,7 @@ TBA
 ### Award Committee
 
 - Dimitris N. Metaxas, Rutgers University, New Brunswick, NJ, USA
-- Diana Mateus, Technische Universität München (TUM), Germany
+- Diana Mateus, Centrale Nantes, France
 
 ### Advisory Board
 
