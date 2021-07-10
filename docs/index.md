@@ -82,6 +82,35 @@ TBA
 - Margrit Betke, Boston University, Boston, MA, USA
 - Emanuele Trucco, University of Dundee, Scotland
 
+### Program Committee
+
+- Alison Leslie, University of Minnesota - Twin Cities
+- Amelia Jiménez-Sánchez, Pompeu Fabra University
+- Anjali Balagopal, UT Southwestern
+- Chandra Kambhamettu, University of Delaware
+- Chao Chen, Stony Brook University
+- Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
+- Edward Kim, Drexel University
+- Filipe Condessa, Instituto Superior Tecnico, Portugal / Carnegie Mellon University, USA
+- Haomiao Ni, Penn State University
+- Hui Qu, Adobe Inc.
+- Jiarong Ye, Penn State University
+- Jue Jiang, Memorial Sloan Kettering Cancer Center
+- Kelvin Wong, Houston Methodist Hospital Research Institute
+- Li Xiao, chinese academy of science
+- Michael Goetz, German Cancer Research Center DFKZ
+- Nicha Dvornek, Yale University
+- Pengyu Yuan, University of Houston
+- Pietro Antonio Cicalese, University of Houston
+- Rafat Solaiman, University of Minnesota Medical School
+- Samira Zare, University of Houston
+- Ti Bai, UT Southwestern Medical Center
+- Weidong Cai, University of Sydney
+- Wen Hui, University of Electronic Science and Technology of China
+- Xiao Liang, UT Southwestern
+- Xiaoxiao Li, Princeton University
+- Xiaoyang Li, University of Houston
+
 ## Previous Editions
 
 DALI is the result of a merger between three proposals submitted to the 2021 MICCAI Conference:
