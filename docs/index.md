@@ -111,6 +111,12 @@ TBA
 - Xiaoxiao Li, Princeton University
 - Xiaoyang Li, University of Houston
 
+## Sponsor
+
+Prizes for **best paper** and **people's choice** are sponsored by [Histosonics](https://histosonics.com/).
+
+![Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg)
+
 ## Previous Editions
 
 DALI is the result of a merger between three proposals submitted to the 2021 MICCAI Conference:
