@@ -69,6 +69,7 @@ TBA
 ### Editorial Chairs
 
 - Raphael Sznitman, University of Bern, Switzerland
+- Yuan Xue, Johns Hopkins University, USA
 
 ### Award Committee
 
