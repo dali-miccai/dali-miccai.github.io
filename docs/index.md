@@ -61,7 +61,7 @@ Please submit to [the DALI CMT site](https://cmt3.research.microsoft.com/DALI202
 - Your manuscript (`manuscript.pdf`)
 - Any supplementary material (`supplementary_material.pdf` -- optional)
 - A document indicating any changes that were made after review (`changes_after_review.pdf`)
-- The [copyright form](TODO) **physically signed** by the corresponding author (`copyright.pdf` -- digital signature is not acceptable)
+- The [copyright form](https://dali-miccai.github.io/DALI_and_DGM4MICCAI_copyright.pdf) **physically signed** by the corresponding author (`copyright.pdf` -- digital signature is not acceptable)
 - A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
 
 In order to present your paper at MICCAI DALI, at least one author of the paper must register to attend the **second workshop day** on October 1. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper.
