@@ -54,6 +54,18 @@ Papers submitted to this workshop are limited to 8 pages including references. P
 
 Contents of the supplemental material should be referred to appropriately in the paper and that reviewers are not obliged to look at it.
 
+## Camera Ready Guidelines
+
+Please submit to [the DALI CMT site](https://cmt3.research.microsoft.com/DALI2021) the following materials as a single zip archive named `dali21_id-X.zip` where X is replaced by your paper ID:
+
+- Your manuscript (`manuscript.pdf`)
+- Any supplementary material (`supplementary_material.pdf` -- optional)
+- A document indicating any changes that were made after review (`changes_after_review.pdf`)
+- The [copyright form](TODO) **physically signed** by the corresponding author (`copyright.pdf` -- digital signature is not acceptable)
+- A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
+
+In order to present your paper at MICCAI DALI, at least one author of the paper must register to attend the **second workshop day** on October 1. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper.
+
 ## Program
 
 TBA
