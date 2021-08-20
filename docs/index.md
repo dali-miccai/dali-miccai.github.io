@@ -97,32 +97,36 @@ TBA
 
 ### Program Committee
 
-- Alison Leslie, University of Minnesota - Twin Cities
+- Alison C Leslie, University of Minnesota
 - Amelia Jiménez-Sánchez, Pompeu Fabra University
 - Anjali Balagopal, UT Southwestern
+- Brett Norling, University of Minnesota
 - Chandra Kambhamettu, University of Delaware
 - Chao Chen, Stony Brook University
 - Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
-- Edward Kim, Drexel University
-- Filipe Condessa, Instituto Superior Tecnico, Portugal / Carnegie Mellon University, USA
+- Devante F Delbrune, University of Minnesota
+- Edward Kim Drexel, University
+- Emanuele Trucco, University of Dundee
+- Filipe Condessa, Instituto Superior Tecnico, Portugal / Carnegie Mellon University
 - Haomiao Ni, Penn State University
 - Hui Qu, Adobe Inc.
 - Jiarong Ye, Penn State University
 - Jue Jiang, Memorial Sloan Kettering Cancer Center
 - Kelvin Wong, Houston Methodist Hospital Research Institute
-- Li Xiao, chinese academy of science
+- Li Xiao, Chinese Academy of Science
 - Michael Goetz, German Cancer Research Center DFKZ
 - Nicha Dvornek, Yale University
+- Niklas E.P. Damberg, University of Minnesota
 - Pengyu Yuan, University of Houston
-- Pietro Antonio Cicalese, University of Houston
+- Pietro Antonio, Cicalese University of Houston
 - Rafat Solaiman, University of Minnesota Medical School
 - Samira Zare, University of Houston
 - Ti Bai, UT Southwestern Medical Center
 - Weidong Cai, University of Sydney
-- Wen Hui, University of Electronic Science and Technology of China
+- Wen Hui Lei, University of Electronic Science and Technology of China
 - Xiao Liang, UT Southwestern
 - Xiaoxiao Li, Princeton University
-- Xiaoyang Li, University of Houston
+- Xiaoyang Li, Adobe
 
 ## Sponsor
 
