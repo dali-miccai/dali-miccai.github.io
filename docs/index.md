@@ -77,6 +77,7 @@ Exact timing will be posted at a later date.
 - [Ekin Dogus Cubuk](https://scholar.google.com/citations?user=Mu_8iOEAAAAJ&hl=en), Google Brain
 - [Jerry Prince](https://engineering.jhu.edu/ece/faculty/prince-jerry-l/), Johns Hopkins University
 - [Adrian Dalca](http://www.mit.edu/~adalca/), Massachusetts Institute of Technology
+- [Steve Jiang](https://profiles.utsouthwestern.edu/profile/150563/steve-jiang.html), UT Southwestern
 
 ### Full Oral Presentations
 
