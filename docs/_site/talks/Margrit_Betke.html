@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+
+
+
+<html
+ lang="en"
+ >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ad3674>
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Invited Talk: Margrit Betke | DALI @ MICCAI</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Invited Talk: Margrit Betke" />
+<meta name="author" content="The DALI Organizers" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections." />
+<meta property="og:description" content="The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections." />
+<link rel="canonical" href="http://localhost:4000/talks/Margrit_Betke.html" />
+<meta property="og:url" content="http://localhost:4000/talks/Margrit_Betke.html" />
+<meta property="og:site_name" content="DALI @ MICCAI" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Invited Talk: Margrit Betke" />
+<script type="application/ld+json">
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/logo.png"},"name":"The DALI Organizers"},"headline":"Invited Talk: Margrit Betke","url":"http://localhost:4000/talks/Margrit_Betke.html","author":{"@type":"Person","name":"The DALI Organizers"},"description":"The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Y8WJXG05N"></script>
+<script>
+  window['ga-disable-G-3Y8WJXG05N'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-3Y8WJXG05N');
+</script><!-- head scripts --></head>
+
+  <body>
+    <nav class="navbar is-primary " x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                DALI @ MICCAI
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/" class="navbar-item ">Home</a>
+                
+                
+                    
+                    <a href="/#important-dates" class="navbar-item ">Important Dates</a>
+                    
+                
+                    
+                    <a href="/#call-for-papers" class="navbar-item ">Call For Papers</a>
+                    
+                
+                    
+                    <a href="/#program" class="navbar-item ">Program</a>
+                    
+                
+                    
+                    <a href="/#people" class="navbar-item ">People</a>
+                    
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/#previous-editions" class="navbar-link ">Previous Editions</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="https://www.hvnguyen.com/lesslabelsimperfectdataml2020" class="navbar-item ">MIL3D</a>
+                            
+                            <a href="https://www.miccailabels.org/" class="navbar-item ">LABELS</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                
+            </div>
+
+            <div class="navbar-end">
+                
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+    
+        <section class="hero  is-medium  is-bold is-primary" >
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">Invited Talk: Margrit Betke</h1>
+            <p class="subtitle is-3">GLPathNet:  Exploiting data size and resolution of histopathologic images with a Global-Local Pathology Network</p>
+            
+        </div>
+    </div>
+</section>
+    
+    
+
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                
+                <div class="column is-12">
+                    
+                    
+                    
+                    
+                    
+<div class="content">
+    <h3 id="abstract">Abstract</h3>
+
+<p>Deep learning techniques that utilize digitized images of biopsies are increasingly considered to facilitate the routine workflow of a pathologist. In the context of kidney diseases, for example, a typical workflow by the expert involves manual operations, such as panning as well as zooming in and out of specific regions on the slide to evaluate various aspects of the pathology to segment various kidney structures and evaluate disease grade.  Previous works on deep learning for analyzing high-resolution whole-slide images (WSIs) proposed to bin them into smaller patches or resize them to a lower resolution, associating them with various outputs of interest. These techniques have various advantages and limitations. While the patch-based approaches maintain image resolution, analyzing each patch independently cannot preserve the spatial relevance of that patch in the context of the entire WSI. In contrast, resizing the WSI to a lower resolution can be a computationally efficient approach but may not allow the capturing of the finer details present within a high-resolution WSI.  We propose a deep learning approach called GLPathNet that mimics the process that nephropathologists use when evaluating kidney biopsy images.   GLPathNet evaluates disease evidence in high-resolution local image patches, putting the results into the global context in an ensemble manner.   The talk details the novel deep architecture of GLPathNet and describes experiments with two datasets showing that GLPathNet is accurate in predicting fibrosis scores.</p>
+
+<h3 id="speakers-bio">Speaker’s Bio</h3>
+
+<p>Margrit Betke is a Professor of Computer Science at Boston University, where she co-leads the Artificial Intelligence Research Initiative and the Image and Video Computing Research Group. She conducts research in computer vision, human-computer interfaces, medical image analysis, and application of machine learning. She has developed 2D and 3D methods for detection, segmentation, registration, and tracking of live cells, tumors, people, bats and birds, vehicles, gestures, etc. in visible-light, infrared, and x-ray image data. She has published over 150 original research papers. She earned her Ph.D. degree in Computer Science and Electrical Engineering at the Massachusetts Institute of Technology (MIT) in 1995. Prof. Betke has received the National Science Foundation Faculty Early Career Development Award for developing “Video-based Interfaces for People with Severe Disabilities.” She co-invented the “Camera Mouse,” an assistive technology used worldwide by children and adults with severe motion impairments. While she was a Research Scientist at the Massachusetts General Hospital and Harvard Medical School, she co-developed the first patented algorithms for detecting and measuring pulmonary nodule growth in computed tomography. She is an Associate Editor of the journals IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and Computer Vision and Image Understanding (CVIU).</p>
+
+</div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+        <footer class="footer">
+    <div class="container">
+        
+        
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
+
+    
+    <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
+</html>

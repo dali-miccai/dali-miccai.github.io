@@ -54,51 +54,37 @@ Papers submitted to this workshop are limited to 8 pages including references. P
 
 Contents of the supplemental material should be referred to appropriately in the paper and that reviewers are not obliged to look at it.
 
-## Camera Ready Guidelines
-
-Please submit to [the DALI CMT site](https://cmt3.research.microsoft.com/DALI2021) the following materials as a single zip archive named `dali21_id-X.zip` where X is replaced by your paper ID:
-
-- Your manuscript (`manuscript.pdf`)
-- Any supplementary material (`supplementary_material.pdf` -- optional)
-- A document indicating any changes that were made after review (`changes_after_review.pdf`)
-- The [copyright form](https://dali-miccai.github.io/DALI_and_DGM4MICCAI_copyright.pdf) **physically signed** by the corresponding author (`copyright.pdf` -- digital signature is not acceptable)
-- A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
-
-In order to present your paper at MICCAI DALI, at least one author of the paper must register to attend the **second workshop day** on October 1. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper.
-
 ## Program
-
-Exact timing will be posted at a later date.
 
 ### Invited Speakers
 
-- [Margrit Betke](https://www.bu.edu/cs/profiles/betke/), Boston University
-- [Stephen Wong](https://www.houstonmethodist.org/faculty/stephen_wong/), Houston Methodist
-- [Ekin Dogus Cubuk](https://scholar.google.com/citations?user=Mu_8iOEAAAAJ&hl=en), Google Brain
-- [Jerry Prince](https://engineering.jhu.edu/ece/faculty/prince-jerry-l/), Johns Hopkins University
-- [Adrian Dalca](http://www.mit.edu/~adalca/), Massachusetts Institute of Technology
-- [Steve Jiang](https://profiles.utsouthwestern.edu/profile/150563/steve-jiang.html), UT Southwestern
+- <ins>11:30 UTC:</ins> **GLPathNet:  Exploiting data size and resolution of histopathologic images with a Global-Local Pathology Network**, *[Margrit Betke](https://www.bu.edu/cs/profiles/betke/) (Boston University)*; [\[Info\]](/talks/Margrit_Betke.html)
+- <ins>12:20 UTC:</ins> **Real World Evidence in Constructing Artificial Intelligence Apps to Improve Clinical Care**, *[Stephen Wong](https://www.houstonmethodist.org/faculty/stephen_wong/) (Houston Methodist)*; [\[Info\]](/talks/Stephen_Wong.html)
+- <ins>14:00 UTC:</ins> **How and why does data augmentation improve generalization?**, *[Ekin Dogus Cubuk](https://scholar.google.com/citations?user=Mu_8iOEAAAAJ&hl=en) (Google Brain)*; [\[Info\]](/talks/Ekin_Dogus_Cubuk.html)
+- <ins>15:00 UTC:</ins> **Progress in Disentangling Anatomy and Contrast for MRI Harmonization**, *[Jerry Prince](https://engineering.jhu.edu/ece/faculty/prince-jerry-l/) (Johns Hopkins University)*; [\[Info\]](/talks/Jerry_Prince.html)
+- <ins>16:00 UTC:</ins> **Augmentation and Synthesis for Learning Domain Invariances in Medical Image Analysis**, *[Adrian Dalca](http://www.mit.edu/~adalca/) (Massachusetts Institute of Technology)*; [\[Info\]](/talks/Adrian_Dalca.html)
+- <ins>17:00 UTC:</ins> **TBA**, *[Steve Jiang](https://profiles.utsouthwestern.edu/profile/150563/steve-jiang.html) (UT Southwestern)*
 
 ### Full Oral Presentations
 
-- **Scalable Semi-supervised Landmark Localization for X-ray Images using Few-shot Deep Adaptive Graph**, *Xiao-Yun Zhou (PAII INC.); Bolin Lai (Ping An Technology (Shanghai) Co.,Ltd.); Weijian Li (University of Rochester); Yirui Wang (PAII Inc.); Kang Zheng (PAII Inc.); Fakai Wang (University of Maryland, College Park); Chihung Lin (CGMH); Le Lu (PAII Inc.); Lingyun Huang (PingAn Technology); Mei Han (PAII Labs); Guotong Xie (Ping An Technology (Shenzhen) Co. Ltd.); Jing Xiao (Ping An Insurance (Group) Company of China); Kuo Chang-Fu (Chang Gung Memorial Hospital); Adam P Harrison (PAII Inc.); Shun Miao (PAII)*
-- **One-shot Learning for Landmarks Detection**, *Zihao Wang (Inria); Clair Vandersteen (Université Côte d’Azur, Centre Hospitalier Universitaire de Nice); RAFFAELLI CHARLES (Centre Hospitalier Universitaire de Nice); Nicolas Guevara (Université Côte d’Azur, Centre Hospitalier Universitaire de Nice); François Patou (Oticon Medical, Research & Technology group); Herve Delingette (Inria)*
-- **Medical image segmentation with imperfect 3D bounding boxes**, *Ekaterina Redekop (Philips); Alexey Chernyavskiy (Philips Innovation Lab RUS)*
-- **An efficient data strategy for the detection of brain aneurysms from MRA with deep learning**, *Youssef Assis (University of Lorraine); Liang Liao (CHRU Nancy); Fabien Pierre (University of Lorraine); René Anxionnat (CHRU Nancy); Erwan Kerrien (Inria)*
-- **Zero-Shot Domain Adaptation in CT Segmentation by Filtered Back Projection Augmentation**, *Talgat Saparov (MIPT); Anvar Kurmukov (Artificial Intelligence Research Institute, Russia, Moscow); Boris Shirokikh (Skoltech); Mikhail Belyaev (Skoltech)*
-- **DeepMCAT: Large-Scale Deep Clustering for Medical Image Categorization**, *Turkay Kart (Imperial College London); Wenjia Bai (Imperial College London); Ben Glocker (Imperial College London); Daniel Rueckert (Imperial College London)*
+- <ins>9:20 UTC:</ins> **An efficient data strategy for the detection of brain aneurysms from MRA with deep learning**, *Youssef Assis (University of Lorraine); Liang Liao (CHRU Nancy); Fabien Pierre (University of Lorraine); René Anxionnat (CHRU Nancy); Erwan Kerrien (Inria)*
+- <ins>9:40 UTC:</ins> **DeepMCAT: Large-Scale Deep Clustering for Medical Image Categorization**, *Turkay Kart (Imperial College London); Wenjia Bai (Imperial College London); Ben Glocker (Imperial College London); Daniel Rueckert (Imperial College London)*
+- <ins>11:10 UTC:</ins> **Zero-Shot Domain Adaptation in CT Segmentation by Filtered Back Projection Augmentation**, *Talgat Saparov (MIPT); Anvar Kurmukov (Artificial Intelligence Research Institute, Russia, Moscow); Boris Shirokikh (Skoltech); Mikhail Belyaev (Skoltech)*
+- <ins>14:40 UTC:</ins> **Medical image segmentation with imperfect 3D bounding boxes**, *Ekaterina Redekop (Philips); Alexey Chernyavskiy (Philips Innovation Lab RUS)*
+- <ins>15:40 UTC:</ins> **Scalable Semi-supervised Landmark Localization for X-ray Images using Few-shot Deep Adaptive Graph**, *Xiao-Yun Zhou (PAII INC.); Bolin Lai (Ping An Technology (Shanghai) Co.,Ltd.); Weijian Li (University of Rochester); Yirui Wang (PAII Inc.); Kang Zheng (PAII Inc.); Fakai Wang (University of Maryland, College Park); Chihung Lin (CGMH); Le Lu (PAII Inc.); Lingyun Huang (PingAn Technology); Mei Han (PAII Labs); Guotong Xie (Ping An Technology (Shenzhen) Co. Ltd.); Jing Xiao (Ping An Insurance (Group) Company of China); Kuo Chang-Fu (Chang Gung Memorial Hospital); Adam P Harrison (PAII Inc.); Shun Miao (PAII)*
+- <ins>16:40 UTC:</ins> **One-shot Learning for Landmarks Detection**, *Zihao Wang (Inria); Clair Vandersteen (Université Côte d’Azur, Centre Hospitalier Universitaire de Nice); RAFFAELLI CHARLES (Centre Hospitalier Universitaire de Nice); Nicolas Guevara (Université Côte d’Azur, Centre Hospitalier Universitaire de Nice); François Patou (Oticon Medical, Research & Technology group); Herve Delingette (Inria)*
 
 ### Short Oral Presentations
 
-- **Semi-supervised Surgical Tool Detection Based on Highly Confident Pseudo Labeling and Strong Augmentation Driven Consistency**, *Wenjing Jiang (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences); Tong Xia (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Zhiqiong Wang (Northeastern University); Fucang Jia (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences)*
-- **Compound Figure Separation of Biomedical Images with Side Loss**, *Tianyuan Yao (Vanderbilt University); Chang Qu (Vanderbilt University); Quan Liu (Vanderbilt University); Ruining Deng (Vanderbilt University); Yuanhan Tian (Vanderbilt University); Jiachen Xu (Vanderbilt University); Aadarsh Jha (Vanderbilt University); Shunxing Bao (Vanderbilt University); Mengyang Zhao (Dartmouth College); Agnes fogo (VUMC); Bennett A Landman (Vanderbilt University); Catie Chang (Vanderbilt University); Haichun Yang (Vanderbilt University Medical Center); Yuankai Huo (Vanderbilt University)*
-- **Data Augmentation with Variational Autoencoders and Manifold Sampling**, *Clément Chadebec (Université de Paris); Stéphanie Allassonnière (Université de Paris)*
-- **MetaHistoSeg: A Python Framework for Meta Learning in Histopathology Image Segmentation**, *Zheng Yuan (Salesforce Research); Andre Esteva (Salesforce Research); Ran Xu (Salesforce Research)*
-- **Automated Iterative Label Transfer Improves Segmentation of Noisy Cells in Adaptive Optics Retinal Images**, *Jianfei Liu (National Eye Institute); Nancy aguilera (National Institutes of Health); Tao Liu (National Institutes of Health); Johnny Tam (National Institutes of Health)*
-- **How few annotations are needed for segmentation using a multi-planar U-Net?**, *William M Laprade (University of Copenhagen); Mathias Perslev (University of Copenhagen); Jon Sporring (University of Copenhagen)*
-- **FS-Net: a new paradigm of data expansion for medical image segmentation**, *Xutao Guo (Harbin Institute of Technology, Shenzhen); Yanwu Yang (HIT at shenzhen); Ting Ma (Harbin Institute of Technology,Shenzhen)*
-- **Evaluation of Active Learning Techniques on Medical Image Classification with Unbalanced Data Distributions**, *Quok Zong Chong (Imperial College London; Metalynx); William J Knottenbelt (Imperial College London); Kanwal K Bhatia (Metalynx)*
-- **Label noise in segmentation networks : mitigation must deal with bias**, *Eugene Vorontsov (Polytechnique Montreal); Samuel Kadoury (Polytechnique Montréal)*
+- <ins>10:00 UTC:</ins> **FS-Net: a new paradigm of data expansion for medical image segmentation**, *Xutao Guo (Harbin Institute of Technology, Shenzhen); Yanwu Yang (HIT at shenzhen); Ting Ma (Harbin Institute of Technology,Shenzhen)*
+- <ins>10:10 UTC:</ins> **Data Augmentation with Variational Autoencoders and Manifold Sampling**, *Clément Chadebec (Université de Paris); Stéphanie Allassonnière (Université de Paris)*
+- <ins>10:20 UTC:</ins> **MetaHistoSeg: A Python Framework for Meta Learning in Histopathology Image Segmentation**, *Zheng Yuan (Salesforce Research); Andre Esteva (Salesforce Research); Ran Xu (Salesforce Research)*
+- <ins>10:30 UTC:</ins> **Label noise in segmentation networks : mitigation must deal with bias**, *Eugene Vorontsov (Polytechnique Montreal); Samuel Kadoury (Polytechnique Montréal)*
+- <ins>10:40 UTC:</ins> **How few annotations are needed for segmentation using a multi-planar U-Net?**, *William M Laprade (University of Copenhagen); Mathias Perslev (University of Copenhagen); Jon Sporring (University of Copenhagen)*
+- <ins>10:50 UTC:</ins> **Evaluation of Active Learning Techniques on Medical Image Classification with Unbalanced Data Distributions**, *Quok Zong Chong (Imperial College London; Metalynx); William J Knottenbelt (Imperial College London); Kanwal K Bhatia (Metalynx)*
+- <ins>11:00 UTC:</ins> **Semi-supervised Surgical Tool Detection Based on Highly Confident Pseudo Labeling and Strong Augmentation Driven Consistency**, *Wenjing Jiang (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences); Tong Xia (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Zhiqiong Wang (Northeastern University); Fucang Jia (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences)*
+- <ins>12:10 UTC:</ins> **Compound Figure Separation of Biomedical Images with Side Loss**, *Tianyuan Yao (Vanderbilt University); Chang Qu (Vanderbilt University); Quan Liu (Vanderbilt University); Ruining Deng (Vanderbilt University); Yuanhan Tian (Vanderbilt University); Jiachen Xu (Vanderbilt University); Aadarsh Jha (Vanderbilt University); Shunxing Bao (Vanderbilt University); Mengyang Zhao (Dartmouth College); Agnes fogo (VUMC); Bennett A Landman (Vanderbilt University); Catie Chang (Vanderbilt University); Haichun Yang (Vanderbilt University Medical Center); Yuankai Huo (Vanderbilt University)*
+- <ins>17:40 UTC:</ins> **Automated Iterative Label Transfer Improves Segmentation of Noisy Cells in Adaptive Optics Retinal Images**, *Jianfei Liu (National Eye Institute); Nancy aguilera (National Institutes of Health); Tao Liu (National Institutes of Health); Johnny Tam (National Institutes of Health)*
 
 ## People
 

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+
+
+
+<html
+ lang="en"
+ >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content=#ad3674>
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <link rel="shortcut icon" type="image/png"
+           href="/favicon.png" 
+    />
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.0/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+    
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-social@1/bin/bulma-social.min.css">
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Invited Talk: Jerry Prince | DALI @ MICCAI</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Invited Talk: Jerry Prince" />
+<meta name="author" content="The DALI Organizers" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections." />
+<meta property="og:description" content="The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections." />
+<link rel="canonical" href="http://localhost:4000/talks/Jerry_Prince.html" />
+<meta property="og:url" content="http://localhost:4000/talks/Jerry_Prince.html" />
+<meta property="og:site_name" content="DALI @ MICCAI" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Invited Talk: Jerry Prince" />
+<script type="application/ld+json">
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/logo.png"},"name":"The DALI Organizers"},"headline":"Invited Talk: Jerry Prince","url":"http://localhost:4000/talks/Jerry_Prince.html","author":{"@type":"Person","name":"The DALI Organizers"},"description":"The MICCAI workshop on Data Augmentatation, Labeling, and Imperfections.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3Y8WJXG05N"></script>
+<script>
+  window['ga-disable-G-3Y8WJXG05N'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-3Y8WJXG05N');
+</script><!-- head scripts --></head>
+
+  <body>
+    <nav class="navbar is-primary " x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" class="navbar-item">
+                DALI @ MICCAI
+            </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="/" class="navbar-item ">Home</a>
+                
+                
+                    
+                    <a href="/#important-dates" class="navbar-item ">Important Dates</a>
+                    
+                
+                    
+                    <a href="/#call-for-papers" class="navbar-item ">Call For Papers</a>
+                    
+                
+                    
+                    <a href="/#program" class="navbar-item ">Program</a>
+                    
+                
+                    
+                    <a href="/#people" class="navbar-item ">People</a>
+                    
+                
+                    
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/#previous-editions" class="navbar-link ">Previous Editions</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="https://www.hvnguyen.com/lesslabelsimperfectdataml2020" class="navbar-item ">MIL3D</a>
+                            
+                            <a href="https://www.miccailabels.org/" class="navbar-item ">LABELS</a>
+                            
+                        </div>
+                    </div>
+                    
+                
+                
+            </div>
+
+            <div class="navbar-end">
+                
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+    
+        <section class="hero  is-medium  is-bold is-primary" >
+    <div class="hero-body ">
+        <div class="container">
+            <h1 class="title is-2">Invited Talk: Jerry Prince</h1>
+            <p class="subtitle is-3">Progress in Disentangling Anatomy and Contrast for MRI Harmonization</p>
+            
+        </div>
+    </div>
+</section>
+    
+    
+
+
+    <section class="section">
+        <div class="container">
+            <div class="columns is-multiline">
+                
+                <div class="column is-12">
+                    
+                    
+                    
+                    
+                    
+<div class="content">
+    <h3 id="abstract">Abstract</h3>
+
+<p>Synthesizing contrasts in magnetic resonance imaging (MRI) has become commonplace and quite robust since the introduction of deep networks in medical imaging.  Imputation of missing contrasts is the most common use for such synthesis (sometimes called image translation).   Harmonization is the more subtle adjustment of similar contrasts so that images can be processed consistently across multiple sites. This talk describes advances in harmonizing MR images by separating their anatomies from their contrasts by using disentangled latent space deep networks.  The key insight we recently advanced is to exploit paired multi-contrast images that are available for all scanning sessions as a supervised part of an otherwise unsupervised scenario in which no traveling subject data are available across sites. We have since developed an underlying theoretical basis for this approach and optimized several aspects of the network architecture and its training methodology.  This talk provides and overview of these developments along with results on several diverse harmonization challenges.</p>
+
+<h3 id="speakers-bio">Speaker’s Bio</h3>
+
+<p>Jerry L. Prince received the B.S. degree from the University of Connecticut in 1979 and the S.M., E.E., and Ph.D. degrees in 1982, 1986, and 1988, respectively, from the Massachusetts Institute of Technology, all in electrical engineering and computer science.  He worked at the Brigham and Women’s Hospital, MIT Lincoln Laboratories, and The Analytic Sciences Corporation (TASC). He joined the faculty at the Johns Hopkins University in 1989, where he is currently William B. Kouwenhoven Professor in the Department of Electrical and Computer Engineering and holds joint appointments in the Departments of Radiology, Biomedical Engineering, Computer Science, and Applied Mathematics and Statistics. Dr. Prince is a Fellow of the IEEE, Fellow of the MICCAI Society, Fellow of the AIMBE, and a member of Sigma Xi. He also holds memberships in Tau Beta Pi, Eta Kappa Nu, and Phi Kappa Phi honor societies.  He was an Associate Editor of IEEE Transactions on Image Processing from 1992-1995, an Associate Editor of IEEE Transactions on Medical Imaging from 2000-2004 and is currently a member of the Editorial Board of Medical Image Analysis. Dr. Prince received a 1993 National Science Foundation Presidential Faculty Fellows Award, was Maryland’s 1997 Outstanding Young Engineer, and was awarded the MICCAI Society Enduring Impact Award in 2012.  He is also co-founder of Sonavex, Inc., a biotechnology company based in Baltimore, MD.  His current research interests are in image processing, computer vision, and machine learning with primary application to medical imaging; he has published over 500 articles on these subjects.</p>
+
+</div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+    
+        <footer class="footer">
+    <div class="container">
+        
+        
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
+
+    
+    <script src="/assets/js/app.js" type="text/javascript"></script><!-- footer scripts --></body>
+</html>
