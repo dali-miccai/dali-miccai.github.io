@@ -63,7 +63,7 @@ Contents of the supplemental material should be referred to appropriately in the
 - <ins>14:00 UTC:</ins> **How and why does data augmentation improve generalization?**, *[Ekin Dogus Cubuk](https://scholar.google.com/citations?user=Mu_8iOEAAAAJ&hl=en) (Google Brain)*; [\[Info\]](/talks/Ekin_Dogus_Cubuk.html)
 - <ins>15:00 UTC:</ins> **Progress in Disentangling Anatomy and Contrast for MRI Harmonization**, *[Jerry Prince](https://engineering.jhu.edu/ece/faculty/prince-jerry-l/) (Johns Hopkins University)*; [\[Info\]](/talks/Jerry_Prince.html)
 - <ins>16:00 UTC:</ins> **Augmentation and Synthesis for Learning Domain Invariances in Medical Image Analysis**, *[Adrian Dalca](http://www.mit.edu/~adalca/) (Massachusetts Institute of Technology)*; [\[Info\]](/talks/Adrian_Dalca.html)
-- <ins>17:00 UTC:</ins> **Respecting the variation among physicians in labeling the clinical data**, *[Steve Jiang](https://profiles.utsouthwestern.edu/profile/150563/steve-jiang.html) (UT Southwestern)*
+- <ins>17:00 UTC:</ins> **Respecting the variation among physicians in labeling the clinical data**, *[Steve Jiang](https://profiles.utsouthwestern.edu/profile/150563/steve-jiang.html) (UT Southwestern)*; [\[Info\]](/talks/Steve_Jiang.html)
 
 ### Full Oral Presentations
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Invited Talk: Ekin Dogus Cubuk"
+title: "Keynote Talk: Ekin Dogus Cubuk"
 subtitle: How and why does data augmentation improve generalization?
 author: The DALI Organizers
 ---
