@@ -59,7 +59,7 @@ Contents of the supplemental material should be referred to appropriately in the
 ### Keynote Speakers
 
 - <ins>11:30 UTC:</ins> **GLPathNet:  Exploiting data size and resolution of histopathologic images with a Global-Local Pathology Network**, *[Margrit Betke](https://www.bu.edu/cs/profiles/betke/) (Boston University)*; [\[Info\]](/talks/Margrit_Betke.html)
-- <ins>12:20 UTC:</ins> **Real World Evidence in Constructing Artificial Intelligence Apps to Improve Clinical Care**, *[Stephen Wong](https://www.houstonmethodist.org/faculty/stephen_wong/) (Houston Methodist)*; [\[Info\]](/talks/Stephen_Wong.html)
+- <ins>12:20 UTC:</ins> **Constructing Real World AI Applications to Improve Clinical Care: Imaging Cases in Alzheimer’s Drug Discovery, Cancer Screening, and Stroke Detection**, *[Stephen Wong](https://www.houstonmethodist.org/faculty/stephen_wong/) (Houston Methodist)*; [\[Info\]](/talks/Stephen_Wong.html)
 - <ins>14:00 UTC:</ins> **How and why does data augmentation improve generalization?**, *[Ekin Dogus Cubuk](https://scholar.google.com/citations?user=Mu_8iOEAAAAJ&hl=en) (Google Brain)*; [\[Info\]](/talks/Ekin_Dogus_Cubuk.html)
 - <ins>15:00 UTC:</ins> **Progress in Disentangling Anatomy and Contrast for MRI Harmonization**, *[Jerry Prince](https://engineering.jhu.edu/ece/faculty/prince-jerry-l/) (Johns Hopkins University)*; [\[Info\]](/talks/Jerry_Prince.html)
 - <ins>16:00 UTC:</ins> **Augmentation and Synthesis for Learning Domain Invariances in Medical Image Analysis**, *[Adrian Dalca](http://www.mit.edu/~adalca/) (Massachusetts Institute of Technology)*; [\[Info\]](/talks/Adrian_Dalca.html)
