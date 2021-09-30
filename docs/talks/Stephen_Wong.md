@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Invited Talk: Stephen Wong"
+title: "Keynote Talk: Stephen Wong"
 subtitle: "Real World Evidence in Constructing Artificial Intelligence Apps to Improve Clinical Care"
 author: The DALI Organizers
 ---

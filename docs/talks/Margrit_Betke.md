@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Invited Talk: Margrit Betke"
+title: "Keynote Talk: Margrit Betke"
 subtitle: "GLPathNet:  Exploiting data size and resolution of histopathologic images with a Global-Local Pathology Network"
 author: The DALI Organizers
 ---

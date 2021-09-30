@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Invited Talk: Jerry Prince"
+title: "Keynote Talk: Jerry Prince"
 subtitle: Progress in Disentangling Anatomy and Contrast for MRI Harmonization
 author: The DALI Organizers
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Invited Talk: Adrian Dalca"
+title: "Keynote Talk: Adrian Dalca"
 subtitle: Augmentation and Synthesis for Learning Domain Invariances in Medical Image Analysis
 author: The DALI Organizers
 ---
