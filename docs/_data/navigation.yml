@@ -9,7 +9,5 @@
 - name: Previous Editions
   link: "#previous-editions"
   dropdown:
-    - name: MIL3D
-      link: https://www.hvnguyen.com/lesslabelsimperfectdataml2020
-    - name: LABELS
-      link: https://www.miccailabels.org/
+    - name: 1st DALI @ MICCAI 2021 
+      link: https://yuanxue1993.github.io/dali-miccai-2021.github.io/
