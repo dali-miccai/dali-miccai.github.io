@@ -3,11 +3,12 @@ layout: page
 title: DALI @ MICCAI 2022
 subtitle: The 2nd MICCAI workshop on Data Augmentation, Labeling, and Imperfections
 description: The homepage of the MICCAI workshop on Data Augmentation, Labeling, and Imperfections
-hero_image: carousels:
-                - images: 
-                    - image: /hero.png
-                    - image: /hero.png
-                    - image: /hero.png
+carousels:
+  - images: 
+    - image: /hero.png
+    - image: /hero.png
+    - image: /hero.png
+hero_image: /hero.png
 image: /logo.png
 show_sidebar: true
 ---
