@@ -81,11 +81,3 @@ TBD
 Prizes for **best paper** and **people's choice** are sponsored by [Histosonics](https://histosonics.com/).
 
 ![Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg)
-
-## Previous Editions
-
-DALI is the result of a merger between three proposals submitted to the 2021 MICCAI Conference:
-
-- [MIL3D](https://www.hvnguyen.com/lesslabelsimperfectdataml2020) -- **Medical Image Learning with Less Labels** -- *(proposed 2nd edition)*
-- [LABELS](https://www.miccailabels.org/) -- **Large-scale Annotation of Biomedical Data and Expert Label Synthesis** -- *(proposed 6th edition)*
-- DAIMIA -- **Data Augmentation and Imputation in Medical Image Analysis** -- *(proposed 1st edition)*
