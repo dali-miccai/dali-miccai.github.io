@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2021/04/11/introducing-dali.html</loc>
-<lastmod>2021-04-11T12:55:09-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2021/05/04/submission.html</loc>
-<lastmod>2021-05-04T15:48:26-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2021/06/23/deadline-extended.html</loc>
-<lastmod>2021-06-23T22:53:05-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2021/07/31/decisions-delayed.html</loc>
-<lastmod>2021-07-31T00:50:14-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2021/09/30/final-program-posted.html</loc>
-<lastmod>2021-09-30T17:23:14-05:00</lastmod>
+<loc>http://localhost:4000/2022/04/02/dali-website.html</loc>
+<lastmod>2022-04-02T21:51:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/talks/Adrian_Dalca.html</loc>
@@ -40,9 +24,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/DALI_and_DGM4MICCAI_copyright.pdf</loc>
-<lastmod>2021-08-02T18:05:59-05:00</lastmod>
 </url>
 </urlset>
