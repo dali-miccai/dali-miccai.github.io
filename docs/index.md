@@ -8,7 +8,7 @@ carousels:
     - image: /hero.png
     - image: /hero.png
     - image: /hero.png
-# hero_image: /hero.png
+hero_image: /hero.png
 image: /logo.png
 show_sidebar: true
 ---
