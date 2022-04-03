@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing: DALI 2022"
 subtitle: The 2nd MICCAI Workshop on Data Augmentation, Labeling, and Imperfections
-date: 2022-04-2 29:02:00 -0400
+date: 2022-04-02 21:51:00 -0400
 author: The DALI Organizers
 ---
 
