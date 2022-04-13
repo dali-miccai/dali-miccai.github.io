@@ -55,7 +55,7 @@ The workshop will have invited speakers presenting popular and emerging data aug
 - Anonymization, PHI detection
 - Other related topics
 
-Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Tentative conference submission website is at: [https://cmt3.research.microsoft.com/DALI2022](https://cmt3.research.microsoft.com/DALI2022)
+Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/DALI2022](https://cmt3.research.microsoft.com/DALI2022)
 
 DALI workshop will employ the same reviewing standards as the main conference. DALI workshop paper submissions should be anonymized in order to accommodate a double blind review. Papers should be formatted using LaTeX or MS Word templates available at [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts should be up to 8-pages (text, figures and tables) plus up to 2 pages of references. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop. Supplemental material submission is optional, which may include:
 
@@ -86,7 +86,7 @@ TBA
 
 ### Advisory Board
 - Stephen Wong, Houston Methodist Hospital, USA
-- Nicholas Heller, University of Minnesota, Minneapolis, USA
+- Nicholas Heller, University of Minnesota, USA
 
 
 ### Program Committee
