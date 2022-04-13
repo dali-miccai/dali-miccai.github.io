@@ -12,7 +12,7 @@ hero_image: /hero.png
 image: /logo.png
 show_sidebar: true
 ---
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+<!-- {% include carousel.html height="50" unit="%" duration="7" number="1" %} -->
 
 # DALI: The 2nd MICCAI Workshop on Data Augmentation, Labeling, and Imperfections
 
