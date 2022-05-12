@@ -82,7 +82,7 @@ TBA
 <!-- ### Editorial Chairs -->
 
 <!-- ### Award Committee -->
-- Dimitris N. Metaxas, Rutgers University, USA
+<!-- - Dimitris N. Metaxas, Rutgers University, USA -->
 
 ### Advisory Board
 - Dimitris N. Metaxas, Rutgers University, USA
