@@ -26,7 +26,7 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 - **Paper Submission Deadline**: June 15, 2022
 - **Notification to Authors**: July 8, 2022
 - **Camera Ready Deadline**: July 13, 2022
-- **Workshop Day**: September 18 or 22, 2022 (TBA)
+- **Workshop Day**: September 22, 2022
 
 ## Call For Papers
 
@@ -79,20 +79,24 @@ TBA
 - Sharon Xiaolei Huang, The Pennsylvania State University, USA
 - Yuan Xue, Johns Hopkins University, USA
 
-### Editorial Chairs
+<!-- ### Editorial Chairs -->
 
-### Award Committee
+<!-- ### Award Committee -->
 - Dimitris N. Metaxas, Rutgers University, USA
 
 ### Advisory Board
+- Dimitris N. Metaxas, Rutgers University, USA
 - Stephen Wong, Houston Methodist Hospital, USA
 - Nicholas Heller, University of Minnesota, USA
-
+- S. Kevin Zhou, University of Science and Technology, China
+- Jia Wu, MD Anderson Cancer Center, USA
+- Ehsan Adeli, Stanford University, USA
+- Faisal Mahmood, Harvard University, USA
 
 ### Program Committee
 
-<!-- ## Sponsor
+### Sponsors
 
-Prizes for **best paper** and **people's choice** are sponsored by [Histosonics](https://histosonics.com/).
+Prizes for **best paper** and **people's choice** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
 
-![Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
+<!--[Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
