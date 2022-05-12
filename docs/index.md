@@ -95,6 +95,26 @@ TBA
 
 ### Program Committee
 
+- Amogh	Subbakrishna Adishesha, The Pennsylvania State University
+- Ti Bai, UT Southwestern Medical Center
+- Weidong	Cai, University of Sydney
+- Nicha	Dvornek, Yale University	
+- Christoph M.	Friedrich, University of Applied Sciences and Arts Dortmund
+- Michael Goetz, German Cancer Research Center
+- Nicholas Heller, University of Minnesota
+- Mahdi	Hosseini, University of New Brunswick
+- Edward Kim, Drexel University
+- Xiao Liang, UT Southwestern Medical Center
+- Kefei	Liu,  University of Pennsylvania
+- Haomiao	Ni, The Pennsylvania State University
+- Hui Qu, Adobe Inc.
+- Emanuele Trucco, University of Dundee
+- Jiarong	Ye, The Pennsylvania State University
+- Chenyu You, Yale University
+- Pengyu Yuan, University of Houston
+- Samira Zare, University of Houston
+
+
 ### Sponsors
 
 Prizes for **best paper** and **people's choice** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
