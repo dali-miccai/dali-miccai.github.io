@@ -119,7 +119,7 @@ TBA
 
 Prizes for **best paper** and **people's choice** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
 
-[Rulai graphic](https://github.com/dali-miccai/dali-miccai.github.io/blob/main/docs/rulai_logo.png) 
-[Uzer graphic](https://github.com/dali-miccai/dali-miccai.github.io/blob/main/docs/uzer_logo.jpg)
+![Rulai graphic](/assets/rulai_logo.png) 
+![Uzer graphic](/assets/uzer_logo.jpg)
 
 <!--[Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
