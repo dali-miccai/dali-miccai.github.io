@@ -23,9 +23,9 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 ## Important Dates
 
 - **[Paper Submission](https://cmt3.research.microsoft.com/DALI2022) Opens**: April 3, 2022
-- **Paper Submission Deadline**: June 15, 2022
-- **Notification to Authors**: July 8, 2022
-- **Camera Ready Deadline**: July 13, 2022
+- **Paper Submission Deadline**: June 27, 2022
+- **Notification to Authors**: July 20, 2022
+- **Camera Ready Deadline**: July 25, 2022
 - **Workshop Day**: September 22, 2022
 
 ## Call For Papers
@@ -95,21 +95,21 @@ TBA
 
 ### Program Committee
 
-- Amogh	Subbakrishna Adishesha, The Pennsylvania State University
+- Amogh Subbakrishna Adishesha, The Pennsylvania State University
 - Ti Bai, UT Southwestern Medical Center
-- Weidong	Cai, University of Sydney
-- Nicha	Dvornek, Yale University	
-- Christoph M.	Friedrich, University of Applied Sciences and Arts Dortmund
+- Weidong Cai, University of Sydney
+- Nicha Dvornek, Yale University
+- Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
 - Michael Goetz, German Cancer Research Center
 - Nicholas Heller, University of Minnesota
-- Mahdi	Hosseini, University of New Brunswick
+- Mahdi Hosseini, University of New Brunswick
 - Edward Kim, Drexel University
 - Xiao Liang, UT Southwestern Medical Center
-- Kefei	Liu,  University of Pennsylvania
-- Haomiao	Ni, The Pennsylvania State University
+- Kefei Liu,  University of Pennsylvania
+- Haomiao Ni, The Pennsylvania State University
 - Hui Qu, Adobe Inc.
 - Emanuele Trucco, University of Dundee
-- Jiarong	Ye, The Pennsylvania State University
+- Jiarong Ye, The Pennsylvania State University
 - Chenyu You, Yale University
 - Pengyu Yuan, University of Houston
 - Samira Zare, University of Houston
@@ -119,7 +119,7 @@ TBA
 
 Prizes for **best paper** and **people's choice** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
 
-![Rulai graphic](rulai_logo.png) 
+![Rulai graphic](rulai_logo.png)
 
 ![Uzer graphic](uzer_logo.jpg)
 
