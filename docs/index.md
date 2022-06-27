@@ -23,9 +23,9 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 ## Important Dates
 
 - **[Paper Submission](https://cmt3.research.microsoft.com/DALI2022) Opens**: April 3, 2022
-- **Paper Submission Deadline**: June 27, 2022
-- **Notification to Authors**: July 20, 2022
-- **Camera Ready Deadline**: July 25, 2022
+- **Paper Submission Deadline**: ~~June 27th~~ **July 2nd**, 2022
+- **Notification to Authors**: ~~July 20th~~ **July 25th**, 2022
+- **Camera Ready Deadline**: ~~July 25th~~ **July 30th**, 2022
 - **Workshop Day**: September 22, 2022
 
 ## Call For Papers
@@ -68,8 +68,9 @@ Contents of the supplemental material should be referred to appropriately in the
 ## Program
 
 ### Keynote Speakers
-
-TBA
+- Yefeng Zheng, Tencent Jarvis Lab, China
+- S. Kevin Zhou, University of Science and Technology, China
+- TBA
 
 ## People
 
@@ -117,7 +118,7 @@ TBA
 
 ### Sponsors
 
-Prizes for **best paper** and **people's choice** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
+Prizes for **best paper** and **people's choice** awards with **$500** each are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
 
 ![Rulai graphic](rulai_logo.png)
 
