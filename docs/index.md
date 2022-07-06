@@ -69,7 +69,11 @@ Contents of the supplemental material should be referred to appropriately in the
 
 ### Keynote Speakers
 - Yefeng Zheng, Tencent Jarvis Lab, China
-- S. Kevin Zhou, University of Science and Technology, China
+- S. Kevin Zhou, University of Science and Technology of China, China
+- Daniel Rueckert, Technical University of Munich, Germany
+- TBA
+
+### Panelists
 - TBA
 
 ## People
@@ -114,6 +118,12 @@ Contents of the supplemental material should be referred to appropriately in the
 - Chenyu You, Yale University
 - Pengyu Yuan, University of Houston
 - Samira Zare, University of Houston
+- Xingyu Li, University of Alberta
+- Chen Yang, City University of Hong Kong
+- Gilbert Lim, National University of Singapore
+- Luyang Luo, The Chinese University of Hong Kong
+- Yubo Fan, Vanderbilt University
+- Zuhui Wang, Stony Brook University
 
 
 ### Sponsors
