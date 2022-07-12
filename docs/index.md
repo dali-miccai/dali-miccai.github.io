@@ -71,6 +71,7 @@ Contents of the supplemental material should be referred to appropriately in the
 - Yefeng Zheng, Tencent Jarvis Lab, China
 - S. Kevin Zhou, University of Science and Technology of China, China
 - Daniel Rueckert, Technical University of Munich, Germany
+- Jia Wu, The University of Texas MD Anderson Cancer Center, USA
 - TBA
 
 ### Panelists
