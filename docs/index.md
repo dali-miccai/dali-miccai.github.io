@@ -72,6 +72,7 @@ Contents of the supplemental material should be referred to appropriately in the
 - S. Kevin Zhou, University of Science and Technology of China, China
 - Daniel Rueckert, Technical University of Munich, Germany
 - Jia Wu, MD Anderson Cancer Center, USA
+- Ehsan Adeli, Stanford University, USA
 - TBA
 
 ### Panelists
