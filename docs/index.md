@@ -73,7 +73,6 @@ Contents of the supplemental material should be referred to appropriately in the
 - Daniel Rueckert, Technical University of Munich, Germany
 - Jia Wu, MD Anderson Cancer Center, USA
 - Ehsan Adeli, Stanford University, USA
-- TBA
 
 ### Panelists
 - TBA
@@ -98,7 +97,6 @@ Contents of the supplemental material should be referred to appropriately in the
 - S. Kevin Zhou, University of Science and Technology, China
 - Jia Wu, MD Anderson Cancer Center, USA
 - Ehsan Adeli, Stanford University, USA
-- Faisal Mahmood, Harvard University, USA
 
 ### Program Committee
 
@@ -130,7 +128,7 @@ Contents of the supplemental material should be referred to appropriately in the
 
 ### Sponsors
 
-Prizes for **best paper** and **people's choice** awards with **$500** each are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
+Prizes for two **best paper** awards with **$500** each are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
 
 ![Rulai graphic](rulai_logo.png)
 
