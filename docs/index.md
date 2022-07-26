@@ -22,11 +22,11 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 
 ## Important Dates
 
-- **[Paper Submission](https://cmt3.research.microsoft.com/DALI2022) Opens**: April 3, 2022
+- **[Paper Submission](https://cmt3.research.microsoft.com/DALI2022) Opens**: April 3rd, 2022
 - **Paper Submission Deadline**: ~~June 27th~~ **July 2nd**, 2022
 - **Notification to Authors**: ~~July 20th~~ **July 25th**, 2022
-- **Camera Ready Deadline**: ~~July 25th~~ **July 30th**, 2022
-- **Workshop Day**: September 22, 2022
+- **Camera Ready Deadline**: ~~July 30th~~ **August 3rd**, 2022
+- **Workshop Day**: September 22th, 2022
 
 ## Call For Papers
 
@@ -64,6 +64,17 @@ DALI workshop will employ the same reviewing standards as the main conference. D
 - Appendices or technical reports containing extended proofs and mathematical derivations that are not essential for the understanding of the paper
 
 Contents of the supplemental material should be referred to appropriately in the paper and that reviewers are not obliged to look at it.
+
+## Camera Ready Guidelines
+Please try to address the minor changes provided by the comments from reviewers and submit to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2022) the following materials as a single zip archive named `dali22_id-X.zip` where X is replaced by your paper ID:
+
+- Your manuscript up to 8-pages (text, figures and tables) plus up to 2 pages of references (`manuscript.pdf`)
+- Any supplementary material (`supplementary_material.pdf` – optional, source files are not required)
+- A document indicating any changes that were made after review (`changes_after_review.pdf`)
+- The copyright form signed by the corresponding author. Digital signature is not acceptable. **We are still working on the details of copyright form. It will be available to authors soon.** (`copyright.pdf`)
+- A folder named `src/` with the source files for yourmanuscript (`.tex`, `.bib` etc., or `.docx`)
+
+In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration numberfor the author who will be presenting your paper.
 
 ## Program
 
