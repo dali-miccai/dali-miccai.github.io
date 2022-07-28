@@ -71,7 +71,7 @@ Please try your best to address the comments from reviewers and submit to the [D
 - Your manuscript up to 8-pages (text, figures and tables) plus up to 2 pages of references (`manuscript.pdf`)
 - Any supplementary material (`supplementary_material.pdf` – optional, source files are not required)
 - A document indicating any changes that were made after review (`changes_after_review.pdf`)
-- The ![copyright form](DALI22_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx) signed by the corresponding author. Digital signature is not acceptable. **We are still working on the details of the copyright form template. It will be made available to authors soon.** (`copyright.pdf`)
+- The [copyright form](./DALI22_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx) signed by the corresponding author. Digital signature is not acceptable. (`copyright.pdf`)
 - A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
 
 In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper.
