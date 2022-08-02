@@ -68,7 +68,7 @@ Contents of the supplemental material should be referred to appropriately in the
 ## Camera Ready Guidelines
 Please try your best to address the comments from reviewers and submit to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2022) the following materials as a single zip archive named `dali22_id-X.zip` where X is replaced by your paper ID:
 
-- Your manuscript up to 8-pages (text, figures and tables) plus up to 2 pages of references (`manuscript.pdf`)
+- Your manuscript up to 8.5 pages (text, figures and tables) plus up to 2 pages of references (`manuscript.pdf`)
 - Any supplementary material (`supplementary_material.pdf` – optional, source files are not required)
 - A document indicating any changes that were made after review (`changes_after_review.pdf`)
 - The [copyright form](https://dali-miccai.github.io/DALI22_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx) signed by the corresponding author. Digital signature is not acceptable. (`copyright.pdf`)
@@ -82,7 +82,6 @@ In order to present your paper at MICCAI DALI 2022, at least one author of the p
 - Yefeng Zheng, Tencent Jarvis Lab, China
 - S. Kevin Zhou, University of Science and Technology of China, China
 - Daniel Rueckert, Technical University of Munich, Germany
-- Jia Wu, MD Anderson Cancer Center, USA
 - Ehsan Adeli, Stanford University, USA
 
 ### Panelists
