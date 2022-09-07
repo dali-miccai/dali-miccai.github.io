@@ -92,12 +92,15 @@ Please note that you may be asked to sign into one of your google accounts befor
 
 ### Keynote Speakers
 - Yefeng Zheng, Tencent Jarvis Lab, China
-- S. Kevin Zhou, University of Science and Technology of China, China
-- Daniel Rueckert, Technical University of Munich, Germany
+- Daniel Rueckert, Technical University of Munich, Germany and Imperial College London, UK
 - Ehsan Adeli, Stanford University, USA
+- Vishal M. Patel, Johns Hopkins University, USA
+- Zhen Li, The Chinese University of Hong Kong, Shen Zhen, China
 
 ### Panelists
-- TBA
+- Chen Chen, Imperial College London, UK
+- Lequan Yu, University of Hong Kong, Hong Kong
+- Kelvin Wong, Houston Methodist Hospital, USA
 
 ## People
 
@@ -150,10 +153,11 @@ Please note that you may be asked to sign into one of your google accounts befor
 
 ### Sponsors
 
-Prizes for two **best paper** awards are sponsored by [Rulai](https://rul.ai/) and [Uzer](http://www.uzerhn.com/)
+Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
 
 ![Rulai graphic](rulai_logo.png)
 
 ![Uzer graphic](uzer_logo.jpg)
+![United-Imaging_graphic](united-imaging_logo.png)
 
 <!--[Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
