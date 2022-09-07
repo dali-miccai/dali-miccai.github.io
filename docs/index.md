@@ -99,7 +99,7 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 - Lequan Yu, University of Hong Kong, Hong Kong
 - Kelvin Wong, Houston Methodist Hospital, USA
 
-## People
+## Organizing Committee
 
 ### Co-Chairs
 
@@ -148,7 +148,7 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 - Zuhui Wang, Stony Brook University
 
 
-### Sponsors
+## Sponsors
 
 Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
 
