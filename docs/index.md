@@ -99,7 +99,7 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 - Lequan Yu, University of Hong Kong, Hong Kong
 - Kelvin Wong, Houston Methodist Hospital, USA
 
-### [Full Program](https://dali-miccai.github.io/DALI22_Program_tentative.pdf)
+### Click here to see the [Full Program](https://dali-miccai.github.io/DALI22_Program_tentative.pdf)
 Times in the full program are subject to change upon speaker request.
 
 
