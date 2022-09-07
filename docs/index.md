@@ -107,9 +107,9 @@ Times in the full program are subject to change upon speaker request.
 
 ### Co-Chairs
 
-- Hien V. Nguyen, University of Houston, USA; [email](mailto:hvnguy35@central.uh.edu)
-- Sharon Xiaolei Huang, The Pennsylvania State University, USA; [email](mailto:suh972@psu.edu)
-- Yuan Xue, Johns Hopkins University, USA; [email](mailto:yuanxue@jhu.edu)
+- Hien V. Nguyen, University of Houston, USA; [hvnguy35@central.uh.edu](mailto:hvnguy35@central.uh.edu)
+- Sharon Xiaolei Huang, The Pennsylvania State University, USA; [suh972@psu.edu](mailto:suh972@psu.edu)
+- Yuan Xue, Johns Hopkins University, USA; [yuanxue@jhu.edu](mailto:yuanxue@jhu.edu)
 
 
 <!-- ### Editorial Chairs -->
