@@ -103,7 +103,7 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 Times in the full program are subject to change upon speaker request.
 
 
-## Organizing Committee
+## People
 
 ### Co-Chairs
 
