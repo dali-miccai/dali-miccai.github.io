@@ -160,6 +160,6 @@ Prizes for **best paper and best paper honorable mention** awards are sponsored 
 
 ![Uzer graphic](uzer_logo.jpg)
 
-![United-Imaging_graphic](united-imaging_logo.png)
+![United-Imaging_graphic](united_imaging_logo.png)
 
 <!--[Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
