@@ -88,16 +88,16 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 ## Program
 
 ### Keynote Speakers
-- Yefeng Zheng, Tencent Jarvis Lab, China
-- Daniel Rueckert, Technical University of Munich, Germany and Imperial College London, UK
-- Ehsan Adeli, Stanford University, USA
-- Vishal M. Patel, Johns Hopkins University, USA
-- Zhen Li, The Chinese University of Hong Kong, Shen Zhen, China
+- [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [info](https://dali-miccai-2021.github.io/talks/Yefeng_Zheng.html)
+- [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [info](https://dali-miccai-2021.github.io/talks/Daniel_Rueckert.html)
+- [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA
+- [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/), Johns Hopkins University, USA
+- [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China
 
 ### Panelists
-- Chen Chen, Imperial College London, UK
-- Lequan Yu, University of Hong Kong, Hong Kong
-- Kelvin Wong, Houston Methodist Hospital, USA
+- [Chen (Cherise) Chen](https://www.imperial.ac.uk/people/chen.chen15), Imperial College London, UK
+- [Lequan Yu](https://yulequan.github.io/), University of Hong Kong, Hong Kong
+- [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA
 
 ### Click to see &rarr; [Full Program](https://dali-miccai.github.io/DALI22_Program_tentative.pdf)
 Times in the full program are subject to change upon speaker request.
