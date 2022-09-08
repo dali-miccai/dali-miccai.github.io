@@ -91,7 +91,7 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [info](https://dali-miccai-2021.github.io/talks/Yefeng_Zheng.html)
 - [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [info](https://dali-miccai-2021.github.io/talks/Daniel_Rueckert.html)
 - [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA
-- [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/), Johns Hopkins University, USA
+- [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/), Johns Hopkins University, USA
 - [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China
 
 ### Panelists
