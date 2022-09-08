@@ -80,16 +80,18 @@ In order to present your paper at MICCAI DALI 2022, at least one author of the p
 
 ## Paper Presentation Guidelines
 
-Each accepted paper will be given eleven minutes for presentation and Q&A. In-person presentations are highly recommended, but remote virtual presentations can be accommodated. Please complete the [survey form](https://docs.google.com/forms/d/112VBP1Zft_LDDIPivIcRXPJvsMF4POx31o10zRUQfkU) as soon as possible **by September 14th** to inform the workshop organizers about your presentation format (in-person or virtual) and the presenter of your paper.
+Each accepted paper will be given eleven minutes for presentation and Q&A. In-person presentations are highly recommended, but remote virtual presentations can be accommodated. Please complete the [survey form](https://docs.google.com/forms/d/112VBP1Zft_LDDIPivIcRXPJvsMF4POx31o10zRUQfkU) as soon as possible **by September 14th** to inform the workshop organizers about your presentation format (in-person or virtual) and the presenter of your paper. 
 
 Every accepted paper should upload the presentation slides in .pptx format. If your paper will be presented virtually, you are also required to upload a video of your presentation that is 8-9 minutes in length. Authors presenting in-person are strongly recommended to upload a video but they are not required to do so. Please name your files with a prefix that is your DALI22 paper id, e.g. dali22_id-X.pptx where X is replaced by your paper ID. The powerpoint slides and videos should be uploaded to the [Google Drive folder](https://drive.google.com/drive/folders/1vZE40Eq9XV2yr_SwZtP6UlzdA4BXgaIh), **no later than Monday, September 19th**. Please note that you may be asked to sign into one of your google accounts before accessing and uploading files to the folder above. If you encounter difficulty with login, please email Sharon Huang (suh972@psu.edu) and ask for an alternative way of uploading files.
+
+The presenting author should be registered for the second workshop day (September 22) of the MICCAI conference. Via [pathable](https://miccai2022.pathable.eu/), the DALI workshop event can be added to your agenda, and the zoom link to join the event will be available in pathable.
 
 
 ## Program
 
 ### Keynote Speakers
-- [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [info](talks/Yefeng_Zheng.html)
-- [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [info](talks/Daniel_Rueckert.html)
+- [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
+- [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [talk info](talks/Daniel_Rueckert.html)
 - [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA
 - [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/), Johns Hopkins University, USA
 - [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China
