@@ -100,7 +100,7 @@ The presenting author should be registered for the second workshop day (Septembe
 - [Lequan Yu](https://yulequan.github.io/), University of Hong Kong, Hong Kong
 - [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA
 
-### Click to see &rarr; [Full Program](DALI22_Program_tentative.pdf)
+### Click to see &rarr; [Full Program](DALI22_Program.pdf)
 Times in the full program are subject to change upon speaker request.
 
 
