@@ -92,7 +92,7 @@ The presenting author should be registered for the second workshop day (Septembe
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
 - [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [talk info](talks/Daniel_Rueckert.html)
 - [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA; [talk info](talks/Ehsan_Adeli.html)
-- [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/), Johns Hopkins University, USA
+- [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/), Johns Hopkins University, USA; [talk info](talks/Vishal_Patel.html)
 - [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China
 
 ### Panelists
