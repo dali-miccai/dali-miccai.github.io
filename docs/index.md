@@ -93,7 +93,7 @@ The presenting author should be registered for the second workshop day (Septembe
 - [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [talk info](talks/Daniel_Rueckert.html)
 - [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA; [talk info](talks/Ehsan_Adeli.html)
 - [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/), Johns Hopkins University, USA; [talk info](talks/Vishal_Patel.html)
-- [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China
+- [Zhen Li](https://mypage.cuhk.edu.cn/academics/lizhen/), The Chinese University of Hong Kong, Shen Zhen, China; [talk info](talks/Zhen_Li.html)
 
 ### Panelists
 - [Chen (Cherise) Chen](https://www.imperial.ac.uk/people/chen.chen15), Imperial College London, UK
