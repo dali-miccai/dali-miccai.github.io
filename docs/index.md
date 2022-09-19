@@ -26,7 +26,7 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 - **Paper Submission Deadline**: ~~June 27th~~ **July 2nd**, 2022
 - **Notification to Authors**: ~~July 20th~~ **July 25th**, 2022
 - **Camera Ready Deadline**: ~~July 30th~~ **August 3rd**, 2022
-- **Workshop Day**: September 22th, 2022
+- **Workshop Day**: September 22nd, 2022
 
 ## Call For Papers
 
