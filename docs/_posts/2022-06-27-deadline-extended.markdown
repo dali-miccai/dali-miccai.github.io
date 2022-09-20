@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Deadline Extended!"
-subtitle: The submission deadline has been extended to July 2, 2021
-date: 2021-06-27 10:53:05 -0400
+subtitle: The submission deadline has been extended to July 2, 2022
+date: 2022-06-27 10:53:05 -0400
 author: The DALI Organizers
 ---
 
