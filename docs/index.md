@@ -107,9 +107,9 @@ The presenting author should be registered for the second workshop day (Septembe
 
 ### Co-Chairs
 
-- Hien V. Nguyen, University of Houston, USA; [hvnguy35@central.uh.edu](mailto:hvnguy35@central.uh.edu)
-- Sharon Xiaolei Huang, The Pennsylvania State University, USA; [suh972@psu.edu](mailto:suh972@psu.edu)
-- Yuan Xue, Johns Hopkins University, USA; [yuanxue@jhu.edu](mailto:yuanxue@jhu.edu)
+- Hien V. Nguyen, University of Houston, USA; 
+- Sharon Xiaolei Huang, The Pennsylvania State University, USA; 
+- Yuan Xue, Johns Hopkins University, USA;
 
 
 <!-- ### Editorial Chairs -->
