@@ -98,7 +98,7 @@ The presenting author should be registered for the second workshop day (Septembe
 ### Panelists
 - [Chen (Cherise) Chen](https://www.imperial.ac.uk/people/chen.chen15), Imperial College London, UK
 - [Lequan Yu](https://yulequan.github.io/), University of Hong Kong, Hong Kong
-- [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA
+- [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA; [Bio](talks/Kelvin_Wong.html)
 
 ### Click to see &rarr; [Full Program](DALI22_Program.pdf)
 
