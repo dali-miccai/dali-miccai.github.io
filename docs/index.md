@@ -76,7 +76,7 @@ Please try your best to address the comments from reviewers and submit to the [D
 - A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
 
 In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper. 
- -->
+
 
 ## Paper Presentation Guidelines
 
@@ -85,7 +85,8 @@ Each accepted paper will be given eleven minutes for presentation and Q&A. In-pe
 Every accepted paper should upload the presentation slides in .pptx format. If your paper will be presented virtually, you are also required to upload a video of your presentation that is 8-9 minutes in length. Authors presenting in-person are strongly recommended to upload a video but they are not required to do so. Please name your files with a prefix that is your DALI22 paper id, e.g. dali22_id-X.pptx where X is replaced by your paper ID. The powerpoint slides and videos should be uploaded to the [Google Drive folder](https://drive.google.com/drive/folders/1vZE40Eq9XV2yr_SwZtP6UlzdA4BXgaIh), **no later than Monday, September 19th**. Please note that you may be asked to sign into one of your google accounts before accessing and uploading files to the folder above. If you encounter difficulty with login, please email Sharon Huang (suh972@psu.edu) and ask for an alternative way of uploading files.
 
 The presenting author should be registered for the second workshop day (September 22) of the MICCAI conference. Via [pathable](https://miccai2022.pathable.eu/), the DALI workshop event can be added to your agenda. The physical event will be held in Room Aquarius 1, 8:00am-3:00pm SGT. Virtual attendees can join the event via a zoom link provided in pathable. The zoom link to join the event should become available in pathable, shortly before the start of the event (8:00am SGT on Sep. 22).
-
+-->
+ 
 ## Program
 
 ### Keynote Speakers
