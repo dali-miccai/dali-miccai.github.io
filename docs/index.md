@@ -76,7 +76,7 @@ Please try your best to address the comments from reviewers and submit to the [D
 - A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
 
 In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper. 
- -->
+
 
 <!-- ## Paper Presentation Guidelines
 
@@ -100,7 +100,7 @@ TBA
 ### Panelists
 - [Chen (Cherise) Chen](https://www.imperial.ac.uk/people/chen.chen15), Imperial College London, UK
 - [Lequan Yu](https://yulequan.github.io/), University of Hong Kong, Hong Kong
-- [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA
+- [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA; [Bio](talks/Kelvin_Wong.html)
 
 ### Click to see &rarr; [Full Program](DALI22_Program.pdf) -->
 
