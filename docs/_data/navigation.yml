@@ -6,6 +6,8 @@
   link: "#program"
 - name: People
   link: "#people"
+- name: Special Issue
+  link: "#special-issue"
 - name: Previous Editions
   dropdown:
     - name: 1st DALI @ MICCAI 2021 
