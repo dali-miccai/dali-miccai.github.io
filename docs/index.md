@@ -16,9 +16,9 @@ show_sidebar: true
 
 # DALI: The 3rd MICCAI Workshop on Data Augmentation, Labeling, and Imperfections
 
-With the proliferation of data-intensive methods for supervised learning, the demand for large quantities of annotated data has never been higher. Unfortunately, large-scale collections of medical images are exceptionally challenging to collect and require rare and expensive expertise to annotate. Moreover, medical data are often noisy and imperfect due to missing entries and sensing heterogeneity. A forum for discussing contemporary and practical approaches for dealing with these challenges is urgently needed.
+The rapid expansion of data-intensive methods for supervised learning has led to an unprecedented demand for large quantities of annotated data. However, obtaining extensive collections of medical images is exceptionally challenging, as it necessitates rare and costly expertise for annotation. Furthermore, medical data are often noisy and imperfect due to missing entries and sensing heterogeneity. A forum for discussing contemporary and practical approaches for dealing with these challenges is urgently needed.
 
-The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfections (**DALI**) aims to provide a venue for researchers to present and discuss their experiences working on these important topics.
+The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfections (**DALI**) aims to provide a venue for researchers to present and discuss their experiences related to these crucial topics, fostering a collaborative environment to tackle these challenges.
 
 ## Important Dates
 
@@ -30,16 +30,18 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 
 ## Call For Papers
 
-Training machine learning systems for image recognition, object detection, and image segmentation often requires a tremendous amount of expert annotated data to reach a high level of accuracy. Having a large number of labeled images helps increase the performance of machine learning models by generalizing better and thereby reducing overfitting. This requirement is even more significant for cutting-edge learning architectures such as vision transformers. As a result, the most popular benchmark datasets for general image recognition tasks have tens of thousands to millions of images.
+Training machine learning systems in the areas of image recognition, object detection, and image segmentation often demands an immense volume of expert-annotated data to achieve high accuracy. A larger number of labeled images enhances the performance of machine learning models by promoting better generalization and reducing overfitting. This necessity is even more critical for advanced learning architectures, such as vision transformers. Consequently, the most renowned benchmark datasets for general image recognition tasks comprise tens of thousands to millions of images.
 
-Unfortunately, obtaining such vast amounts of labeled data is very challenging in the medical imaging domain due to costly annotation by domain experts and the lack of high-quality anonymized data out of privacy concerns. Furthermore, there are unique challenges to collecting annotated medical datasets. For instance, although hard to obtain, examples of rare pathological conditions are extremely important for an accurate representation of the data distribution. Moreover, there are often variations among experts who provide labels, especially for conditions that human experts are most confused about and need help the most.
+Regrettably, acquiring such vast quantities of labeled data presents significant challenges in the medical imaging domain due to the high cost of annotation by domain experts and the scarcity of high-quality anonymized data stemming from privacy concerns. Additionally, there are distinct challenges associated with collecting annotated medical datasets. For example, while difficult to procure, instances of rare pathological conditions are crucial for accurately representing the data distribution. Furthermore, variations often exist among experts who provide labels, particularly for conditions that cause confusion among human experts and require the most assistance.
 
-The goal of this workshop is to bring together and create a discussion forum for researchers in the MICCAI community, including those
-i) who are interested in the rigorous study of medical data as it relates to machine learning systems,
-ii) who are developing and promoting novel directions of research in such techniques,
-iii) who would like to contribute benchmark datasets, open challenges, and tasks that enable fair comparisons among existing and new techniques, and
-iv) who are applying such techniques to improve the performance of medical image computing systems.
-The workshop will have invited speakers presenting popular and emerging data augmentation and contemporary approaches for learning from small and noisy medical data. The workshop welcomes submissions that present new ideas, new results, new datasets, as well as discussion and evaluation of existing approaches. The topics of interest include but are not limited to:
+The goal of this workshop is to bring together and create a discussion forum for researchers in the MICCAI community, including those:
+
+i. interested in the rigorous study of medical data as it relates to machine learning systems,
+ii. developing and promoting novel directions of research in such techniques,
+iii. contributing benchmark datasets, open challenges, and tasks that enable fair comparisons among existing and new techniques, and
+iv. applying such techniques to improve the performance of medical image computing systems.
+
+The workshop will feature invited speakers presenting popular and emerging data augmentation and contemporary approaches for learning from small and noisy medical data. The workshop welcomes submissions that present new ideas, new results, new datasets, as well as discussion and evaluation of existing approaches. The topics of interest include but are not limited to:
 
 - Training and evaluation with noisy or uncertain labels
 - Data annotation tools and practices
@@ -55,15 +57,15 @@ The workshop will have invited speakers presenting popular and emerging data aug
 - Anonymization, PHI detection
 - Other related topics
 
-Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/DALI2023](https://cmt3.research.microsoft.com/DALI2023)
+Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/DALI2023](https://cmt3.research.microsoft.com/DALI2023)
 
-DALI workshop will employ the same reviewing standards as the main conference. DALI workshop paper submissions should be anonymized in order to accommodate a double blind review. Papers should be formatted using LaTeX or MS Word templates available at [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts should be up to 8-pages (text, figures and tables) plus up to 2 pages of references. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop. Supplemental material submission is optional, which may include:
+The DALI workshop will employ the same reviewing standards as the main conference. DALI workshop paper submissions should be anonymized to accommodate a double-blind review. Papers should be formatted using LaTeX or MS Word templates available at [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts should be up to 8 pages (text, figures, and tables) plus up to 2 pages of references. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop. Supplemental material submission is optional, which may include:
 
 - Videos of results that cannot be included in the main paper
 - Anonymized related submissions to other conferences and journals
 - Appendices or technical reports containing extended proofs and mathematical derivations that are not essential for the understanding of the paper
 
-Contents of the supplemental material should be referred to appropriately in the paper and that reviewers are not obliged to look at it.
+Contents of the supplemental material should be referred to appropriately in the paper, and reviewers are not obliged to look at it.
 
 <!--
 ## Camera Ready Guidelines
@@ -109,12 +111,12 @@ TBA
 
 ### Co-Chairs
 
-- Yuan Xue, Johns Hopkins University, USA [yuanxue@jhu.edu](mailto:yuanxue@jhu.edu)
-- Chen Chen, University of Oxford, UK [chen.chen15@imperial.ac.uk](mailto:chen.chen15@imperial.ac.uk)
-- Chao Chen, Stony Brook University, USA [chao.chen.1@stonybrook.edu](mailto:chao.chen.1@stonybrook.edu)
-
+- [Yuan Xue](mailto:yuanxue@jhu.edu), Johns Hopkins University, USA
+- [Chen (Cherise) Chen](mailto:chen.chen15@imperial.ac.uk), University of Oxford, UK
+- [Chao Chen](mailto:chao.chen.1@stonybrook.edu), Stony Brook University, USA
 
 ### Editorial Chairs
+
 - Lianrui Zuo, Johns Hopkins University, USA
 - Yihao Liu, Johns Hopkins University, USA
 
@@ -122,14 +124,16 @@ TBA
 <!-- - Dimitris N. Metaxas, Rutgers University, USA -->
 
 ### Advisory Board
+
 - Sharon Xiaolei Huang, The Pennsylvania State University, USA
 - Hien V. Nguyen, University of Houston, USA
 - Nicholas Heller, University of Minnesota, USA
 - Stephen Wong, Houston Methodist Hospital, USA
 - Daniel Rueckert, Technische Universität München, Germany
 - Jerry Prince, Johns Hopkins University, USA
-- Ehsan Adeli, Stanford University, USA
 - Dimitris N. Metaxas, Rutgers University, USA
+- Ehsan Adeli, Stanford University, USA
+
 
 ### Program Committee
 
@@ -164,6 +168,7 @@ TBA
 ## Sponsors
 
 TBA
+
 <!-- Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
 
 ![Rulai graphic](rulai_logo.png)
