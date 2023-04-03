@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DALI @ MICCAI 2022
-subtitle: The 2nd MICCAI workshop on Data Augmentation, Labeling, and Imperfections
+title: DALI @ MICCAI 2023
+subtitle: The 3rd MICCAI workshop on Data Augmentation, Labeling, and Imperfections
 description: The homepage of the MICCAI workshop on Data Augmentation, Labeling, and Imperfections
 # carousels:
 #   - images: 
@@ -14,7 +14,7 @@ show_sidebar: true
 ---
 <!-- {% include carousel.html height="50" unit="%" duration="7" number="1" %} -->
 
-# DALI: The 2nd MICCAI Workshop on Data Augmentation, Labeling, and Imperfections
+# DALI: The 3rd MICCAI Workshop on Data Augmentation, Labeling, and Imperfections
 
 With the proliferation of data-intensive methods for supervised learning, the demand for large quantities of annotated data has never been higher. Unfortunately, large-scale collections of medical images are exceptionally challenging to collect and require rare and expensive expertise to annotate. Moreover, medical data are often noisy and imperfect due to missing entries and sensing heterogeneity. A forum for discussing contemporary and practical approaches for dealing with these challenges is urgently needed.
 
@@ -22,11 +22,11 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 
 ## Important Dates
 
-- **[Paper Submission](https://cmt3.research.microsoft.com/DALI2022) Opens**: April 3rd, 2022
-- **Paper Submission Deadline**: ~~June 27th~~ **July 2nd**, 2022
-- **Notification to Authors**: ~~July 20th~~ **July 25th**, 2022
-- **Camera Ready Deadline**: ~~July 30th~~ **August 3rd**, 2022
-- **Workshop Day**: September 22nd, 2022
+- **[Paper Submission](https://cmt3.research.microsoft.com/DALI2023) Opens**: TBD
+- **Paper Submission Deadline**:  **June 25**, 2023
+- **Notification to Authors**:  **July 16**, 2023
+- **Camera Ready Deadline**:  **July 30**, 2023
+- **Workshop Day**: TBD
 
 ## Call For Papers
 
@@ -55,7 +55,7 @@ The workshop will have invited speakers presenting popular and emerging data aug
 - Anonymization, PHI detection
 - Other related topics
 
-Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/DALI2022](https://cmt3.research.microsoft.com/DALI2022)
+Submissions to our workshop will be managed using the same platform as the main MICCAI conference, using the Microsoft CMT. Workshop paper submission website is at: [https://cmt3.research.microsoft.com/DALI2023](https://cmt3.research.microsoft.com/DALI2023)
 
 DALI workshop will employ the same reviewing standards as the main conference. DALI workshop paper submissions should be anonymized in order to accommodate a double blind review. Papers should be formatted using LaTeX or MS Word templates available at [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Manuscripts should be up to 8-pages (text, figures and tables) plus up to 2 pages of references. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop. Supplemental material submission is optional, which may include:
 
@@ -78,17 +78,19 @@ Please try your best to address the comments from reviewers and submit to the [D
 In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper. 
  -->
 
-## Paper Presentation Guidelines
+<!-- ## Paper Presentation Guidelines
 
 Each accepted paper will be given eleven minutes for presentation and Q&A. In-person presentations are highly recommended, but remote virtual presentations can be accommodated. Please complete the [survey form](https://docs.google.com/forms/d/112VBP1Zft_LDDIPivIcRXPJvsMF4POx31o10zRUQfkU) as soon as possible **by September 14th** to inform the workshop organizers about your presentation format (in-person or virtual) and the presenter of your paper.
 
 Every accepted paper should upload the presentation slides in .pptx format. If your paper will be presented virtually, you are also required to upload a video of your presentation that is 8-9 minutes in length. Authors presenting in-person are strongly recommended to upload a video but they are not required to do so. Please name your files with a prefix that is your DALI22 paper id, e.g. dali22_id-X.pptx where X is replaced by your paper ID. The powerpoint slides and videos should be uploaded to the [Google Drive folder](https://drive.google.com/drive/folders/1vZE40Eq9XV2yr_SwZtP6UlzdA4BXgaIh), **no later than Monday, September 19th**. Please note that you may be asked to sign into one of your google accounts before accessing and uploading files to the folder above. If you encounter difficulty with login, please email Sharon Huang (suh972@psu.edu) and ask for an alternative way of uploading files.
 
-The presenting author should be registered for the second workshop day (September 22) of the MICCAI conference. Via [pathable](https://miccai2022.pathable.eu/), the DALI workshop event can be added to your agenda. The physical event will be held in Room Aquarius 1, 8:00am-3:00pm SGT. Virtual attendees can join the event via a zoom link provided in pathable. The zoom link to join the event should become available in pathable, shortly before the start of the event (8:00am SGT on Sep. 22).
+The presenting author should be registered for the second workshop day (September 22) of the MICCAI conference. Via [pathable](https://miccai2022.pathable.eu/), the DALI workshop event can be added to your agenda. The physical event will be held in Room Aquarius 1, 8:00am-3:00pm SGT. Virtual attendees can join the event via a zoom link provided in pathable. The zoom link to join the event should become available in pathable, shortly before the start of the event (8:00am SGT on Sep. 22). -->
 
 ## Program
 
-### Keynote Speakers
+TBA
+
+<!-- ### Keynote Speakers
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
 - [Daniel Rueckert](https://www.imperial.ac.uk/people/d.rueckert), Technical University of Munich, Germany and Imperial College London, UK; [talk info](talks/Daniel_Rueckert.html)
 - [Ehsan Adeli](https://stanford.edu/~eadeli/), Stanford University, USA; [talk info](talks/Ehsan_Adeli.html)
@@ -100,34 +102,40 @@ The presenting author should be registered for the second workshop day (Septembe
 - [Lequan Yu](https://yulequan.github.io/), University of Hong Kong, Hong Kong
 - [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA
 
-### Click to see &rarr; [Full Program](DALI22_Program.pdf)
+### Click to see &rarr; [Full Program](DALI22_Program.pdf) -->
 
 
 ## People
 
 ### Co-Chairs
 
-- Hien V. Nguyen, University of Houston, USA; [hvnguy35@central.uh.edu](mailto:hvnguy35@central.uh.edu)
-- Sharon Xiaolei Huang, The Pennsylvania State University, USA; [suh972@psu.edu](mailto:suh972@psu.edu)
-- Yuan Xue, Johns Hopkins University, USA; [yuanxue@jhu.edu](mailto:yuanxue@jhu.edu)
+- Yuan Xue, Johns Hopkins University, USA [yuanxue@jhu.edu](mailto:yuanxue@jhu.edu)
+- Chen Chen, University of Oxford, UK [chen.chen15@imperial.ac.uk](mailto:chen.chen15@imperial.ac.uk)
+- Chao Chen, Stony Brook University, USA [chao.chen.1@stonybrook.edu](mailto:chao.chen.1@stonybrook.edu)
 
 
-<!-- ### Editorial Chairs -->
+### Editorial Chairs
+- Lianrui Zuo, Johns Hopkins University, USA
+- Yihao Liu, Johns Hopkins University, USA
 
 <!-- ### Award Committee -->
 <!-- - Dimitris N. Metaxas, Rutgers University, USA -->
 
 ### Advisory Board
-- Dimitris N. Metaxas, Rutgers University, USA
-- Stephen Wong, Houston Methodist Hospital, USA
+- Sharon Xiaolei Huang, The Pennsylvania State University, USA
+- Hien V. Nguyen, University of Houston, USA
 - Nicholas Heller, University of Minnesota, USA
-- S. Kevin Zhou, University of Science and Technology, China
-- Jia Wu, MD Anderson Cancer Center, USA
+- Stephen Wong, Houston Methodist Hospital, USA
+- Daniel Rueckert, Technische Universität München, Germany
+- JJerry Prince, Johns Hopkins University, USA
 - Ehsan Adeli, Stanford University, USA
+- Dimitris N. Metaxas, Rutgers University, USA
 
 ### Program Committee
 
-- Amogh Subbakrishna Adishesha, The Pennsylvania State University
+TBA
+
+<!-- - Amogh Subbakrishna Adishesha, The Pennsylvania State University
 - Ti Bai, UT Southwestern Medical Center
 - Weidong Cai, University of Sydney
 - Nicha Dvornek, Yale University
@@ -150,17 +158,18 @@ The presenting author should be registered for the second workshop day (Septembe
 - Gilbert Lim, National University of Singapore
 - Luyang Luo, The Chinese University of Hong Kong
 - Yubo Fan, Vanderbilt University
-- Zuhui Wang, Stony Brook University
+- Zuhui Wang, Stony Brook University -->
 
 
 ## Sponsors
 
-Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
+TBA
+<!-- Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
 
 ![Rulai graphic](rulai_logo.png)
 
 ![Uzer graphic](uzer_logo.jpg)
 
-![United-Imaging_graphic](united_imaging_logo.png)
+![United-Imaging_graphic](united_imaging_logo.png) -->
 
 <!--[Histosonics graphic](https://histosonics.com/wp-content/uploads/2020/03/histosonics_ogimage.jpg) -->
