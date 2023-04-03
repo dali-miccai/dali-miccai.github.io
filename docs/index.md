@@ -164,6 +164,9 @@ TBA
 - Yubo Fan, Vanderbilt University
 - Zuhui Wang, Stony Brook University -->
 
+## Special Issue
+
+A selection of the best DALI workshop papers will be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the co-chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
 
 ## Sponsors
 
