@@ -127,7 +127,7 @@ TBA
 - Nicholas Heller, University of Minnesota, USA
 - Stephen Wong, Houston Methodist Hospital, USA
 - Daniel Rueckert, Technische Universität München, Germany
-- JJerry Prince, Johns Hopkins University, USA
+- Jerry Prince, Johns Hopkins University, USA
 - Ehsan Adeli, Stanford University, USA
 - Dimitris N. Metaxas, Rutgers University, USA
 
