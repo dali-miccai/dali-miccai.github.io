@@ -79,7 +79,6 @@ Please try your best to address the comments from reviewers and submit to the [D
 
 In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper. 
 
-
 <!-- ## Paper Presentation Guidelines
 
 Each accepted paper will be given eleven minutes for presentation and Q&A. In-person presentations are highly recommended, but remote virtual presentations can be accommodated. Please complete the [survey form](https://docs.google.com/forms/d/112VBP1Zft_LDDIPivIcRXPJvsMF4POx31o10zRUQfkU) as soon as possible **by September 14th** to inform the workshop organizers about your presentation format (in-person or virtual) and the presenter of your paper.
@@ -105,7 +104,6 @@ TBA
 - [Kelvin Wong](https://www.houstonmethodist.org/faculty/kelvin-wong/), Houston Methodist Hospital, USA; [Bio](talks/Kelvin_Wong.html)
 
 ### Click to see &rarr; [Full Program](DALI22_Program.pdf) -->
-
 
 ## People
 
@@ -133,7 +131,6 @@ TBA
 - Jerry Prince, Johns Hopkins University, USA
 - Dimitris N. Metaxas, Rutgers University, USA
 - Ehsan Adeli, Stanford University, USA
-
 
 ### Program Committee
 
@@ -169,12 +166,14 @@ TBA
 A selection of the best DALI workshop papers will be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the co-chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
 
 ## Sponsors
+
 We are pleased to announce that two prestigious awards will be presented at the upcoming DALI workshop, and we are grateful to our generous sponsors for making these prizes possible. The **Best Paper Award** and **People's Choice Award**, each with a value of **$500**, are being sponsored by two leading companies in the industry: [SenseTime](https://www.sensetime.com/en) and [InferVision](https://global.infervision.com/).
 
 We are thrilled to have SenseTime and InferVision as sponsors for the DALI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about these companies and their groundbreaking work.
 
-![SenseTime graphic](sensetime_logo.png) ![InferVision graphic](infervision_logo.jpg)
-
+<img src="sensetime_logo.png" alt="SenseTime graphic" width="400" height="300"> <img src="infervision_logo.jpg" alt="InferVision graphic" width="400" height="300">
+<!-- ![SenseTime graphic](sensetime_logo.png) ![InferVision graphic](infervision_logo.jpg)
+<img src="path/to/image.png" alt="Image description" width="400" height="300"> -->
 
 <!-- Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
 
