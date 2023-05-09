@@ -107,7 +107,7 @@ TBA
 
 ## People
 
-### Co-Chairs
+### Program Chairs
 
 - [Yuan Xue](mailto:yuanxue@jhu.edu), Johns Hopkins University, USA
 - [Chen (Cherise) Chen](mailto:chen.chen15@imperial.ac.uk), University of Oxford, UK
@@ -171,7 +171,7 @@ We are pleased to announce that two prestigious awards will be presented at the 
 
 We are thrilled to have SenseTime and InferVision as sponsors for the DALI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about these companies and their groundbreaking work.
 
-<img src="sensetime_logo.png" alt="SenseTime graphic" width="400" height="300"> <img src="infervision_logo.png" alt="InferVision graphic" width="400" height="300">
+<img src="sensetime_logo.png" alt="SenseTime graphic" width="360" height="270"> &nbsp;&nbsp; <img src="infervision_logo.png" alt="InferVision graphic" width="400" height="300">
 
 
 <!-- Prizes for **best paper and best paper honorable mention** awards are sponsored by [Rulai](https://rul.ai/), [Uzer](http://www.uzerhn.com/) and [United Imaging](https://www.uii-ai.com/en)
