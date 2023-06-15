@@ -23,9 +23,9 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 ## Important Dates
 
 - **[Paper Submission](https://cmt3.research.microsoft.com/DALI2023) Opens**: **May 9**, 2023
-- **Paper Submission Deadline**:  **June 25**, 2023
-- **Notification to Authors**:  **July 16**, 2023
-- **Camera Ready Deadline**:  **July 30**, 2023
+- **Paper Submission Deadline**:  ~~June 25~~ **July 10**, 2023
+- **Notification to Authors**:  ~~July 16~~ **July 31**, 2023
+- **Camera Ready Deadline**:  ~~July 30~~ **August 14**, 2023
 - **Workshop Day**: **October 12**, 2023
 
 ## Call For Papers
@@ -67,6 +67,16 @@ The DALI workshop will employ the same reviewing standards as the main conferenc
 
 Contents of the supplemental material should be referred to appropriately in the paper, and reviewers are not obliged to look at it.
 
+## CMIG Special Issue
+
+A selection of the best DALI workshop papers will be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the co-chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
+
+## Awards & Sponsors
+
+We are pleased to announce that two prestigious awards will be presented at the upcoming DALI workshop, and we are grateful to our generous sponsors for making these prizes possible. The **Best Paper Award** and **People's Choice Award**, each with an amount of **$500**, are being sponsored by two leading companies in the industry: [SenseTime](https://www.sensetime.com/en) and [InferVision](https://global.infervision.com/).
+
+We are thrilled to have SenseTime and InferVision as sponsors for the DALI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about these companies and their groundbreaking work.
+
 <!--
 ## Camera Ready Guidelines
 Please try your best to address the comments from reviewers and submit to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2022) the following materials as a single zip archive named `dali22_id-X.zip` where X is replaced by your paper ID:
@@ -89,7 +99,11 @@ The presenting author should be registered for the second workshop day (Septembe
 
 ## Program
 
-TBA
+### Keynote Speakers
+
+- [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/), Rutgers University, USA
+- [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany
+- TBA
 
 <!-- ### Keynote Speakers
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
@@ -160,16 +174,6 @@ TBA
 - Luyang Luo, The Chinese University of Hong Kong
 - Yubo Fan, Vanderbilt University
 - Zuhui Wang, Stony Brook University -->
-
-## CMIG Special Issue
-
-A selection of the best DALI workshop papers will be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the co-chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
-
-## Sponsors
-
-We are pleased to announce that two prestigious awards will be presented at the upcoming DALI workshop, and we are grateful to our generous sponsors for making these prizes possible. The **Best Paper Award** and **People's Choice Award**, each with an amount of **$500**, are being sponsored by two leading companies in the industry: [SenseTime](https://www.sensetime.com/en) and [InferVision](https://global.infervision.com/).
-
-We are thrilled to have SenseTime and InferVision as sponsors for the DALI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about these companies and their groundbreaking work.
 
 <img src="sensetime_logo.png" alt="SenseTime graphic" width="340" height="255"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="infervision_logo.png" alt="InferVision graphic" width="400" height="300">
 
