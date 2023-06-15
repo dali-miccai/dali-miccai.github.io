@@ -46,6 +46,8 @@ The workshop will feature invited speakers presenting popular and emerging data 
 - Training and evaluation with noisy or uncertain labels
 - Data annotation tools and practices
 - Synthetic data for medical image analysis
+- Data-related foundation models
+- Multi-modal learning
 - One-shot/few-shot learning
 - Active learning
 - Semi-, weakly-, self-supervised learning
