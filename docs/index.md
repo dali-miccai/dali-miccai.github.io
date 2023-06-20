@@ -105,7 +105,7 @@ The presenting author should be registered for the second workshop day (Septembe
 
 - [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/), Rutgers University, USA
 - [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany
-- TBA
+- [Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/), University of Southern California, USA
 
 <!-- ### Keynote Speakers
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
