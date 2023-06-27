@@ -69,9 +69,9 @@ The DALI workshop will employ the same reviewing standards as the main conferenc
 
 Contents of the supplemental material should be referred to appropriately in the paper, and reviewers are not obliged to look at it.
 
-## CMIG Special Issue
+## Proceedings and CMIG Special Issue
 
-A selection of the best DALI workshop papers will be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the co-chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
+Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
 
 ## Awards & Sponsors
 
