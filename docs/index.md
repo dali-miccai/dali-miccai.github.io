@@ -25,7 +25,7 @@ The MICCAI Workshop on **D**ata **A**ugmentation, **L**abeling, and **I**mperfec
 - **[Paper Submission](https://cmt3.research.microsoft.com/DALI2023) Opens**: **May 9**, 2023
 - **Paper Submission Deadline**:  ~~June 25~~ **July 10**, 2023
 - **Notification to Authors**:  ~~July 16~~ **July 31**, 2023
-- **Camera Ready Deadline**:  ~~July 30~~ **August 14**, 2023
+- **Camera Ready Deadline**:  ~~July 30~~ **August 17**, 2023
 - **Workshop Day**: **October 12**, 2023, Vancouver, Canada
 
 ## Call For Papers
