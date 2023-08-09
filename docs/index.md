@@ -69,6 +69,21 @@ The DALI workshop will employ the same reviewing standards as the main conferenc
 
 Contents of the supplemental material should be referred to appropriately in the paper, and reviewers are not obliged to look at it.
 
+## Camera Ready Submission Guidelines
+
+Please carefully address the feedback provided by the reviewers. Submit the revised materials to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2023) as a single zip archive, named in the format `dali23_id-X.zip`, with "X" being replaced by your unique paper ID.
+
+Your submission should include:
+
+1. **Manuscript**: Maximum of 8.5 pages, inclusive of text, figures, and tables, with an additional allowance of up to 2 pages for references. The file should be named `manuscript.pdf`.
+2. **Supplementary Material** (Optional): Name the file `supplementary_material.pdf`. Note that source files for supplementary materials aren't mandatory.
+3. **Changes Document**: A detailed list of modifications made post-review. Name the file `changes_after_review.pdf`.
+4. **Copyright Form**: Download and fill out the [copyright form](https://dali-miccai.github.io/DALI23_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx). The form should be signed by the corresponding author. Digital signatures will not be accepted. Save this document as `copyright.pdf`.
+5. **Source Files**: Include a folder named `src/`, which houses the source files for your manuscript (e.g., `.tex`, `.bib`, `.docx`).
+
+To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper author **must** register to attend on the second workshop day, October 12. As a general rule, this registration should be an "in-person" registration. The camera-ready submission portal will prompt you to provide the registration number of the author who will be presenting your work.
+
+
 ## Proceedings and CMIG Special Issue
 
 Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
@@ -79,17 +94,6 @@ We are pleased to announce that two prestigious awards will be presented at the 
 
 We are thrilled to have SenseTime and InferVision as sponsors for the DALI workshop and are grateful for their support in recognizing outstanding contributions in medical AI research. We encourage all attendees to take the opportunity to learn more about these companies and their groundbreaking work.
 
-<!--
-## Camera Ready Guidelines
-Please try your best to address the comments from reviewers and submit to the [DALI CMT site](https://cmt3.research.microsoft.com/DALI2022) the following materials as a single zip archive named `dali22_id-X.zip` where X is replaced by your paper ID:
-
-- Your manuscript up to 8.5 pages (text, figures and tables) plus up to 2 pages of references (`manuscript.pdf`)
-- Any supplementary material (`supplementary_material.pdf` – optional, source files are not required)
-- A document indicating any changes that were made after review (`changes_after_review.pdf`)
-- The [copyright form](https://dali-miccai.github.io/DALI22_SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland.docx) signed by the corresponding author. Digital signature is not acceptable. (`copyright.pdf`)
-- A folder named `src/` with the source files for your manuscript (`.tex`, `.bib` etc., or `.docx`)
-
-In order to present your paper at MICCAI DALI 2022, at least one author of the paper **must** register to attend the second workshop day on September 22. DALI workshop will be in hybrid mode this year. This registration does not need to be an “in-person” registration. The camera ready submission form will ask you for the registration number for the author who will be presenting your paper. 
 
 <!-- ## Paper Presentation Guidelines
 
@@ -150,32 +154,35 @@ The presenting author should be registered for the second workshop day (Septembe
 
 ### Program Committee
 
-TBA
-
-<!-- - Amogh Subbakrishna Adishesha, The Pennsylvania State University
-- Ti Bai, UT Southwestern Medical Center
-- Weidong Cai, University of Sydney
-- Nicha Dvornek, Yale University
-- Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
-- Michael Goetz, German Cancer Research Center
-- Nicholas Heller, University of Minnesota
-- Mahdi Hosseini, University of New Brunswick
-- Edward Kim, Drexel University
-- Xiao Liang, UT Southwestern Medical Center
-- Kefei Liu,  University of Pennsylvania
-- Haomiao Ni, The Pennsylvania State University
-- Hui Qu, Adobe Inc.
-- Emanuele Trucco, University of Dundee
-- Jiarong Ye, The Pennsylvania State University
+- Amogh Subbakrishna Adishesha, The Pennsylvania State University
+- Cheng Ouyang, Imperial College London
 - Chenyu You, Yale University
-- Pengyu Yuan, University of Houston
-- Samira Zare, University of Houston
-- Xingyu Li, University of Alberta
-- Chen Yang, City University of Hong Kong
-- Gilbert Lim, National University of Singapore
+- Christoph M. Friedrich, University of Applied Sciences and Arts Dortmund
+- Edward Kim, Drexel University
+- Fan Wang, Stony Brook University
+- Gilbert Lim, SingHealth
+- Haomiao Ni, The Pennsylvania State University
+- Jiachen Liu, The Pennsylvania State University
+- Kexin Ding, University of North Carolina at Charlotte
 - Luyang Luo, The Chinese University of Hong Kong
+- Michael Goetz, University Hospital Ulm
+- Muchao Ye, The Pennsylvania State University
+- Nicha Dvornek, Yale University
+- Nicholas Heller, University of Minnesota
+- Peiyu Duan, Yale University
+- Peng Jin, The Pennsylvania State University
+- Ruochen Wang, AbleTo, Inc.
+- Samira Zare, University of Houston
+- Samuel Remedios, Johns Hopkins University
+- Saumya Gupta, Stony Brook University
+- Sharon Xiaolei Huang, The Pennsylvania State University
+- Weidong Cai, University of Sydney
+- Weimin Lyu, Stony Brook University
 - Yubo Fan, Vanderbilt University
-- Zuhui Wang, Stony Brook University -->
+- Yuli Wang, Johns Hopkins University
+- Zeju Li, Imperial College London
+- Zhangxing Bian, Johns Hopkins University
+- Zuhui Wang, Stony Brook University
 
 <img src="sensetime_logo.png" alt="SenseTime graphic" width="340" height="255"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="infervision_logo.png" alt="InferVision graphic" width="400" height="300">
 

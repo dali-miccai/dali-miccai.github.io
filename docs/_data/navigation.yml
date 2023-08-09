@@ -2,12 +2,16 @@
   link: "#important-dates"
 - name: Call For Papers
   link: "#call-for-papers"
+- name: Camera Ready Guidelines
+  link: "#camera-ready-submission-guidelines"
 - name: Program
   link: "#program"
 - name: People
   link: "#people"
 - name: Special Issue
-  link: "#special-issue"
+  link: "#Proceedings-and-CMIG-Special-Issue"
+- name: Awards & Sponsors
+  link: "#Awards-&-Sponsors"
 - name: Previous Editions
   dropdown:
     - name: 1st DALI @ MICCAI 2021 
