@@ -88,7 +88,7 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
 
-## Awards & Sponsors
+## Awards and Sponsors
 
 We are pleased to announce that two prestigious awards will be presented at the upcoming DALI workshop, and we are grateful to our generous sponsors for making these prizes possible. The **Best Paper Award** and **People's Choice Award**, each with an amount of **$500**, are being sponsored by two leading companies in the industry: [SenseTime](https://www.sensetime.com/en) and [InferVision](https://global.infervision.com/).
 
