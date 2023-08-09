@@ -9,9 +9,9 @@
 - name: People
   link: "#people"
 - name: Special Issue
-  link: "#Proceedings-and-CMIG-Special-Issue"
+  link: "#proceedings-and-cmig-special-issue"
 - name: Awards & Sponsors
-  link: "#Awards-&-Sponsors"
+  link: "#awards-&-sponsors"
 - name: Previous Editions
   dropdown:
     - name: 1st DALI @ MICCAI 2021 
