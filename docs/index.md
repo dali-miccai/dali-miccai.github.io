@@ -83,10 +83,38 @@ Your submission should include:
 
 To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper author **must** register to attend on the second workshop day, October 12. As a general rule, this registration should be an "in-person" registration. The camera-ready submission portal will prompt you to provide the registration number of the author who will be presenting your work.
 
+## Program
+
+### Location
+
+- **Vancouver Convention Center East Building Level 1 Meeting Room 14**
+- **Virtual Attendance: ConFLUX platform**
+
+### Keynote Speakers
+
+- [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/), Rutgers University, USA
+- [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany
+- [Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/), University of Southern California, USA
+
+### Schedule
+
+- <ins>1:30 - 1:40 PM PDT</ins> Opening, welcome and introduction
+- <ins>1:40 - 1:55 PM PDT</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
+- <ins>1:55 - 2:35 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
+- <ins>2:35 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
+- <ins>2:50 - 3:30 PM PDT</ins> **Keynote: TBD**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
+- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session
+- <ins>4:00 - 4:30 PM PDT</ins> Poster Session
+- <ins>4:30 - 5:10 PM PDT</ins> **Keynote: AI and Data Efficient Deep Learning to Accelerate Large-Scale Studies of Brain Diseases**, *[Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (University of Southern California)*; [\[Details\]](talks/Paul_Thompson.html)
+- <ins>5:10 - 5:25 PM PDT</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
+- <ins>5:25 - 5:40 PM PDT</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
+- <ins>5:40 - 5:55 PM PDT</ins> **Oral: URL: Combating Label Noise for Lung Nodule Malignancy Grading**,  *Xianze Ai (Northwestern Polytechnical University)*
+- <ins>5:55 - 6:10 PM PDT</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
+- <ins>6:10 - 6:30 PM PDT</ins> Closing and award announcement
 
 ## Proceedings and CMIG Special Issue
 
-Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. Further details regarding this opportunity will be announced shortly.
+Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. The submission portal is open now. More details can be found [here](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/about/call-for-papers#learning-with-imperfect-data-for-medical-image-analysis).
 
 ## Awards and Sponsors
 
@@ -103,13 +131,9 @@ Every accepted paper should upload the presentation slides in .pptx format. If y
 
 The presenting author should be registered for the second workshop day (September 22) of the MICCAI conference. Via [pathable](https://miccai2022.pathable.eu/), the DALI workshop event can be added to your agenda. The physical event will be held in Room Aquarius 1, 8:00am-3:00pm SGT. Virtual attendees can join the event via a zoom link provided in pathable. The zoom link to join the event should become available in pathable, shortly before the start of the event (8:00am SGT on Sep. 22). -->
 
-## Program
+<!-- ## Program
+ -->
 
-### Keynote Speakers
-
-- [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/), Rutgers University, USA
-- [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany
-- [Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/), University of Southern California, USA
 
 <!-- ### Keynote Speakers
 - [Yefeng Zheng](https://sites.google.com/site/yefengzheng/), Tencent Jarvis Lab, China; [talk info](talks/Yefeng_Zheng.html)
