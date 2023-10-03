@@ -89,7 +89,7 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 - **Workshop: Vancouver Convention Center East Building Level 1 Meeting Room 14**
 - **Coffee Break/Poster Session: The Poster Hall at Ground Level Exhibition B-C**
-- **Virtual Attendance: ConFLUX platform**
+- **Virtual Attendance: ConFLUX platform** 
 
 ### Keynote Speakers
 
