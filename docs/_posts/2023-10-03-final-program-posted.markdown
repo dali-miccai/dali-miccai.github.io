@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The DALI 2023 Workshop Program Has Been Posted
+title: "The DALI 2023 Workshop Program Has Been Posted"
 subtitle: We look forward to meeting you on Oct 12!
 date: 2023-10-03 06:30:00 -0500
 author: The DALI Organizers

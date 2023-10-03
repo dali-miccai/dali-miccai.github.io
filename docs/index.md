@@ -87,7 +87,8 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 ### Location
 
-- **Vancouver Convention Center East Building Level 1 Meeting Room 14**
+- **Workshop: Vancouver Convention Center East Building Level 1 Meeting Room 14**
+- **Coffee Break/Poster Session: The Poster Hall at Ground Level Exhibition B-C**
 - **Virtual Attendance: ConFLUX platform**
 
 ### Keynote Speakers
@@ -103,8 +104,8 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 - <ins>1:55 - 2:35 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
 - <ins>2:35 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
 - <ins>2:50 - 3:30 PM PDT</ins> **Keynote: TBD**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
-- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session
-- <ins>4:00 - 4:30 PM PDT</ins> Poster Session
+- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (both at Ground Level Exhibition B-C)
+- <ins>4:00 - 4:30 PM PDT</ins> Poster Session (Ground Level Exhibition B-C)
 - <ins>4:30 - 5:10 PM PDT</ins> **Keynote: AI and Data Efficient Deep Learning to Accelerate Large-Scale Studies of Brain Diseases**, *[Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (University of Southern California)*; [\[Details\]](talks/Paul_Thompson.html)
 - <ins>5:10 - 5:25 PM PDT</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
 - <ins>5:25 - 5:40 PM PDT</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
@@ -114,7 +115,7 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 ## Proceedings and CMIG Special Issue
 
-Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 7.422). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. The submission portal is open now. More details can be found [here](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/about/call-for-papers#learning-with-imperfect-data-for-medical-image-analysis).
+Accepted DALI workshop papers will be published with MICCAI 2023 Proceedings in the Springer Lecture Notes in Computer Science (LNCS) series. A selection of the best papers will also be invited to submit revised and extended versions of their work to a Special Issue in CMIG ([Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF: 5.7). The pre-selection of these papers will be based on editorial chair recommendations during the review process, with final decisions made by the program chairs. Extended papers should emphasize the application of DALI-related methods to address specific medical problems. Please note that even extended papers may be subject to rejection during the peer-review process of CMIG. The submission portal is open now. More details can be found [here](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/about/call-for-papers#learning-with-imperfect-data-for-medical-image-analysis).
 
 ## Awards and Sponsors
 
