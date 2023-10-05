@@ -101,8 +101,8 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 - <ins>1:30 - 1:40 PM PDT</ins> Opening, welcome and introduction
 - <ins>1:40 - 1:55 PM PDT</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
-- <ins>1:55 - 2:35 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
-- <ins>2:35 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
+- <ins>1:55 - 2:10 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
+- <ins>2:10 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
 - <ins>2:50 - 3:30 PM PDT</ins> **Keynote: TBD**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
 - <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (both at Ground Level Exhibition B-C)
 - <ins>4:00 - 4:30 PM PDT</ins> Poster Session (Ground Level Exhibition B-C)
@@ -154,7 +154,7 @@ The presenting author should be registered for the second workshop day (Septembe
 
 ### Program Chairs
 
-- [Yuan Xue](mailto:yuanxue@jhu.edu), Johns Hopkins University, USA
+- [Yuan Xue](mailto:Yuan.Xue@osumc.edu), Ohio State University, USA
 - [Chen (Cherise) Chen](mailto:chen.chen15@imperial.ac.uk), University of Oxford, UK
 - [Chao Chen](mailto:chao.chen.1@stonybrook.edu), Stony Brook University, USA
 
