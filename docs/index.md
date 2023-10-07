@@ -101,7 +101,7 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 
 - <ins>1:30 - 1:40 PM PDT</ins> Opening, welcome and introduction
 - <ins>1:40 - 1:55 PM PDT</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
-- <ins>1:55 - 2:10 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
+- <ins>1:55 - 2:10 PM PDT</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
 - <ins>2:10 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
 - <ins>2:50 - 3:30 PM PDT</ins> **Keynote: TBD**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
 - <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (both at Ground Level Exhibition B-C)
@@ -110,7 +110,7 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 - <ins>5:10 - 5:25 PM PDT</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
 - <ins>5:25 - 5:40 PM PDT</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
 - <ins>5:40 - 5:55 PM PDT</ins> **Oral: URL: Combating Label Noise for Lung Nodule Malignancy Grading**,  *Xianze Ai (Northwestern Polytechnical University)*
-- <ins>5:55 - 6:10 PM PDT</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
+- <ins>5:55 - 6:10 PM PDT</ins> **Oral: A Realistic Collimated X-Ray Image Simulation Pipeline**,  *Benjamin El-Zein (Friedrich-Alexander-University Erlangen-Nuremberg)*
 - <ins>6:10 - 6:30 PM PDT</ins> Closing and award announcement
 
 ## Proceedings and CMIG Special Issue
