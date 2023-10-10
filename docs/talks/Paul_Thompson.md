@@ -7,7 +7,7 @@ author: Yuan Xue
 
 ### Time and Location
 
-Oct. 12th, 04:30 PM to 05:10 PM (PDT- Pacific Daylight Time)
+Oct. 12th, 04:30 PM to 05:10 PM (PDT- Pacific Daylight Time)\
 Meeting Room 14, Vancouver Convention Center East Building Level 1
 
 ### Abstract
