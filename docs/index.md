@@ -97,15 +97,34 @@ To ensure your paper is presented at MICCAI DALI 2023, a minimum of one paper au
 - [Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html), German Cancer Research Center, Germany
 - [Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/), University of Southern California, USA
 
+### Poster List (Ground Level Exhibition B)
+
+- <ins>01</ins> URL: Combating Label Noise for Lung Nodule Malignancy Grading
+- <ins>02</ins> Zero-shot Learning of Individualized Task Contrast Prediction from Resting-state Functional Connectomes
+- <ins>03</ins> Microscopy Image Segmentation via Point and Shape Regularized Data Synthesis
+- <ins>04</ins> A Unified Approach to Learning with Label Noise and Unsupervised Confidence Approximation
+- <ins>05</ins> Transesophageal Echocardiography Generation using Anatomical Models
+- <ins>06</ins> Data Augmentation Based on DiscrimDiff for Histopathology Image Classification
+- <ins>07</ins> Clinically Focussed Evaluation of Anomaly Detection and Localisation Methods Using Inpatient CT Head Data
+- <ins>08</ins> LesionMix: A Lesion-Level Data Augmentation Method for Medical Image Segmentation
+- <ins>09</ins> Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports
+- <ins>10</ins> Modular, Label-Efficient Dataset Generation for Instrument Detection for Robotic Scrub Nurses
+- <ins>11</ins> Adaptive Semi-Supervised Segmentation of Brain Vessels with Ambiguous Labels
+- <ins>12</ins> Proportion Estimation by Masked Learning from Label Proportion
+- <ins>13</ins> Active Learning Strategies on a Real-World Thyroid Ultrasound Dataset
+- <ins>14</ins> A Realistic Collimated X-Ray Image Simulation Pipeline
+- <ins>15</ins> Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse
+- <ins>16</ins> Self-Supervised Single-Image Deconvolution with Siamese Neural Networks
+
 ### Schedule
 
 - <ins>1:30 - 1:40 PM PDT</ins> Opening, welcome and introduction
 - <ins>1:40 - 1:55 PM PDT</ins> **Oral: Masked Conditional Diffusion Models for Image Analysis with Application to Radiographic Diagnosis of Infant Abuse**,  *Andy Tsai (Boston Children's Hospital and Harvard Medical School)*
 - <ins>1:55 - 2:10 PM PDT</ins> **Oral: Self-Supervised Single-Image Deconvolution with Siamese Neural Networks**,  *Mikhail Papkov (University of Tartu)*
 - <ins>2:10 - 2:50 PM PDT</ins> **Keynote: The devil is in the details: On the importance of professionalizing the whole image analysis pipeline**, *[Lena Maier-Hein](https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html) (German Cancer Research Center)*; [\[Details\]](talks/Lena_Maier-Hein.html)
-- <ins>2:50 - 3:30 PM PDT</ins> **Keynote: TBD**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
-- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (both at Ground Level Exhibition B-C)
-- <ins>4:00 - 4:30 PM PDT</ins> Poster Session (Ground Level Exhibition B-C)
+- <ins>2:50 - 3:30 PM PDT</ins> **Keynote: Genetic Mutation and Biological Pathway Prediction from Whole Slide Images using Deep Learning for Cancer Detection and Diagnosis**, *[Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/) (Rutgers University)*; [\[Details\]](talks/Dimitris_Metaxas.html)
+- <ins>3:30 - 4:00 PM PDT</ins> Coffee Break/Poster Session (Ground Level Exhibition B-C)
+- <ins>4:00 - 4:30 PM PDT</ins> Poster Session (Ground Level Exhibition B)
 - <ins>4:30 - 5:10 PM PDT</ins> **Keynote: AI and Data Efficient Deep Learning to Accelerate Large-Scale Studies of Brain Diseases**, *[Paul M. Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (University of Southern California)*; [\[Details\]](talks/Paul_Thompson.html)
 - <ins>5:10 - 5:25 PM PDT</ins> **Oral: Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**,  *Tom J van Sonsbeek (University of Amsterdam)*
 - <ins>5:25 - 5:40 PM PDT</ins> **Oral: Data Augmentation Based on DiscrimDiff for Histopathology Image Classification**,  *Xianchao Guan (Harbin Institute of Technology, Shenzhen)*
