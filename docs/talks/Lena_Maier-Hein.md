@@ -5,6 +5,11 @@ subtitle: "The devil is in the details: On the importance of professionalizing t
 author: Yuan Xue
 ---
 
+### Time and Location
+
+Oct. 12th, 02:10 PM to 02:50 PM (PDT- Pacific Daylight Time)
+Meeting Room 14, Vancouver Convention Center East Building Level 1
+
 ### Abstract
 
 Intelligent medical systems capable of capturing and interpreting sensor data and providing context-aware assistance promise to revolutionize interventional healthcare. However, a number of (sometimes non-obvious) factors substantially impede successful adoption of modern machine learning research for clinical use. Drawing from research within my own group as well as large international expert consortia, I will discuss pervasive shortcomings and new solutions in current medical imaging procedures with a specific focus on challenges arising from poor reference labels as well as data distribution shifts. My talk will showcase the importance of systematically professionalizing every aspect of the medical imaging pipeline to the end of readying intelligent imaging systems for clinical use.
